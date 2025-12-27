@@ -1459,25 +1459,6 @@
     "name": "TRAnimaci"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 30772,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 4,
-    "internalName": "TrAnimeIzle",
-    "description": "Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
-    "name": "TrAnimeIzle"
-  },
-  {
     "iconUrl": "https://www.trdiziizle.vip/fawn.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -1534,27 +1515,6 @@
     "description": "TRT Çocuk resmi web sitesinde, canlı tv izle, oyun oyna, çizgi film izle, yarışmalara başvur ve eğlenceyi yakala! Rafadan Tayfa, Akıllı Tavşan Momo, İbi, Kare, Aslan, Hapşuu, Niloya, Rüzgar Gülü, Kardeşim Ozi, Emiray ve dahası burada. TRT Çocuk üzerinden günlük yayın akışını takip edebilir ve ebeveyn blogu yazılarını da okuyabilirsiniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrtCocuk.cs3",
     "name": "TrtCocuk"
-  },
-  {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 20837,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "version": 18,
-    "internalName": "TurkAnime",
-    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
-    "name": "TurkAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
