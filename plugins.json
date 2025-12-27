@@ -179,25 +179,6 @@
     "name": "AsyaFanatiklerim"
   },
   {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyafilmizlesene.org&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 12840,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 3,
-    "internalName": "AsyaFilmIzlesene",
-    "description": "Hint filmleri, Hint filmleri izle, Asya filmleri izle, Kore filmleri izle, HD izle, Full izle, 1080p izle, online izle, Tek parça izle.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaFilmIzlesene.cs3",
-    "name": "AsyaFilmIzlesene"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -216,25 +197,6 @@
     "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
     "name": "AsyaKing"
-  },
-  {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 14867,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 7,
-    "internalName": "AsyaMinik",
-    "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
-    "name": "AsyaMinik"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
@@ -855,21 +817,21 @@
   {
     "iconUrl": "https://www.giniko.com/images/favicon.ico",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/sarapcanagii/pitipiti",
     "fileSize": 11523,
     "status": 1,
     "language": "tr",
     "authors": [
-      "kraptor"
+      "sarapcanagii"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 7,
-    "internalName": "GinikoCanli",
-    "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
-    "name": "GinikoCanli"
+    "internalName": "NeonSpor",
+    "description": "Spor kanallari ücretsiz çevrimiçi TV.",
+    "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
+    "name": "NeonSpor"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hdfilmcehennemi.com&size=128",
