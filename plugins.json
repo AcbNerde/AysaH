@@ -1926,53 +1926,5 @@
     "description": "Türk sinemasının unutulmaz filmler bu adreste.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
     "name": "YesilCamTv"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 113784,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "Kraptor"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
-    ],
-    "version": 19,
-    "internalName": "Youtube",
-    "description": "Youtube",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
-    "name": "Youtube"
-  },
-  {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-    "jarFileSize": 215075,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 39570,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kraptor",
-      "Phisher98",
-      "ByAyzen"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Torrent"
-    ],
-    "version": 20,
-    "internalName": "YTS",
-    "jarUrl": "https://raw.githubusercontent.com/Kraptor123/kraptoranime/builds/YTS.jar",
-    "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
-    "name": "YTS"
   }
 ]
