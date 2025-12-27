@@ -494,25 +494,6 @@
     "name": "DiziKorea"
   },
   {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizikral.nl/mofy/img/192x192_.png&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 20579,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 12,
-    "internalName": "DiziKral",
-    "description": "DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKral.cs3",
-    "name": "DiziKral"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -750,65 +731,7 @@
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
     "name": "FilmEkseni"
   },
-  {
-    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 18372,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 22,
-    "internalName": "FilmHane",
-    "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
-    "name": "FilmHane"
-  },
-  {
-    "iconUrl": "https://filmizle.cx/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 22275,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 15,
-    "internalName": "FilmIzle",
-    "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmIzle.cs3",
-    "name": "FilmIzle"
-  },
-  {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmkutu.com/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 18884,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "ByAyzen"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "FilmKutu",
-    "description": "Filmkutu ile en yeni yapımları yüksek kalitede izle. Reklamsız, kesintisiz ve 1080p seçenekleriyle HD film izlemenin en kolay yolu.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmKutu.cs3",
-    "name": "FilmKutu"
-  },
-  {
+    {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -849,25 +772,6 @@
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
     "name": "FilmModu"
-  },
-  {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 26682,
-    "status": 1,
-    "language": "az",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "Filmzal",
-    "description": "Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
-    "name": "Filmzal"
   },
   {
     "iconUrl": "https://img.flixhq.to/xxrz/400x400/100/ab/5f/ab5f0e1996cc5b71919e10e910ad593e/ab5f0e1996cc5b71919e10e910ad593e.png",
@@ -1005,25 +909,6 @@
     "description": "En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmDelisi.cs3",
     "name": "HDFilmDelisi"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 17217,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 9,
-    "internalName": "HintDizi",
-    "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
-    "name": "HintDizi"
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
@@ -1178,7 +1063,7 @@
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "fileSize": 80114,
     "status": 1,
-    "language": "tr",
+    "language": "en",
     "authors": [
       "kraptor",
       "NivinCNC"
@@ -1293,26 +1178,6 @@
     "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
     "name": "RecTV"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 50737,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 36,
-    "internalName": "RoketDizi",
-    "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
-    "name": "RoketDizi"
   },
   {
     "iconUrl": "https://seicode.net/favicon.png",
@@ -1849,26 +1714,6 @@
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
     "name": "YabanciDizi"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 13865,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "YeniKaynak",
-    "description": "İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniKaynak.cs3",
-    "name": "YeniKaynak"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
