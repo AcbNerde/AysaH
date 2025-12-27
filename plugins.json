@@ -14,7 +14,7 @@
     ],
     "version": 17,
     "internalName": "4KFilmIzlesene",
-    "description": "Yakında Silinecek!",
+    "description": "Bir süre daha aktif",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/4KFilmIzlesene.cs3",
     "name": "4KFilmIzlesene"
   },
@@ -1199,7 +1199,7 @@
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "fileSize": 13999,
     "status": 1,
-    "language": "tr",
+    "language": "en",
     "authors": [
       "kraptor",
       "ByAyzen"
