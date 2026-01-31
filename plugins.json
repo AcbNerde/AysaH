@@ -1,6 +1,6 @@
 [
   {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.4kfilmizlesene.org&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "fileSize": 11912,
@@ -13,10 +13,10 @@
       "Movie"
     ],
     "version": 17,
-    "internalName": "4KFilmIzlesene",
-    "description": "Bir süre daha aktif",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/4KFilmIzlesene.cs3",
-    "name": "4KFilmIzlesene"
+    "internalName": "YesilCamTv",
+    "description": "Türk sinemasının unutulmaz filmler bu adreste.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
+    "name": "YesilCamTv"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
