@@ -2,7 +2,7 @@
     {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 36965,
     "status": 1,
     "language": "tr",
@@ -10,7 +10,8 @@
       "keyiflerolsun",
       "inatchii",
       "JustRelaxable",
-      "kraptor123"
+      "kraptor123",
+      "SAKLImavi"
     ],
     "tvTypes": [
       "Anime"
@@ -18,7 +19,7 @@
     "version": 28,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AnimeciX.cs3",
     "name": "AnimeciX"
   },
   {
