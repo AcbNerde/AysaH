@@ -42,66 +42,6 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TRasyalog.cs3",
     "name": "TRasyalog"
   },
-              {
-    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2022/01/cropped-Asya-animeleri-12-e1629130525708-2-e1641560729784.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 12046,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "SAKLImavi"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 8,
-    "internalName": "AsyaAnimeleri",
-    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AsyaAnimeleri.cs3",
-    "name": "AsyaAnimeleri"
-  },
-                  {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 12046,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "kraptor",
-      "SAKLImavi"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 8,
-    "internalName": "AnimeAV",
-    "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AnimeAV.cs3",
-    "name": "AnimeAV"
-  },
-                      {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 12046,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "SAKLImavi"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 8,
-    "internalName": "AnimeWorld",
-    "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualit\u00e0, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AnimeWorld.cs3",
-    "name": "AnimeWorld"
-  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
@@ -432,7 +372,7 @@
     "version": 43,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/InatBox.cs3",
     "name": "InatBox"
   },
       {
@@ -515,26 +455,6 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Streamed.cs3",
     "name": "Streamed"
   },
-      {
-    "iconUrl": "https://umay.org.tr/wp-content/uploads/2022/06/umay-logo-acik-1.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 24598,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "ByAyzen",
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 6,
-    "internalName": "UmayCanli",
-    "description": "UmayCanli, Türkiye canlı yayın yapılan bir platformdu",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/UmayCanli.cs3",
-    "name": "UmayCanli"
-  },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
     "apiVersion": 1,
@@ -553,7 +473,7 @@
     "version": 22,
     "internalName": "KultFilmler",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
     "name": "KultFilmler"
   },
       {
@@ -574,7 +494,7 @@
     "version": 22,
     "internalName": "RareFilmm",
     "description": "RareFilmm özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/RareFilmm.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
     "name": "RareFilmm"
   },
           {
@@ -595,7 +515,7 @@
     "version": 22,
     "internalName": "SelcukFlix",
     "description": "SelcukFlix özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
       {
@@ -654,7 +574,7 @@
     "version": 2,
     "internalName": "Tlc",
     "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/TLC.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Tlc.cs3",
     "name": "Tlc"
   }
  ]
