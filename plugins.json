@@ -42,6 +42,66 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TRasyalog.cs3",
     "name": "TRasyalog"
   },
+              {
+    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2022/01/cropped-Asya-animeleri-12-e1629130525708-2-e1641560729784.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "AsyaAnimeleri",
+    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TAsyaAnimeleri.cs3",
+    "name": "AsyaAnimeleri"
+  },
+                  {
+    "iconUrl": "https://tranimaci.com/logo.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "TRanimaci",
+    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TRanimaci.cs3",
+    "name": "TRanimaci"
+  },
+                      {
+    "iconUrl": "https://files.sikayetvar.com/lg/cmp/25/252959.png?1662124269",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "TurkAnime",
+    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TurkAnime.cs3",
+    "name": "TurkAnime"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
