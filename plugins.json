@@ -64,6 +64,27 @@
     "name": "CizgiMax"
   },
       {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 25060,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "kraptor",
+      "SAKLImavi"  
+    ],
+    "tvTypes": [
+      "Documentary"
+    ],
+    "version": 16,
+    "internalName": "BelgeselX",
+    "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/BelgeselX.cs3",
+    "name": "BelgeselX"
+  },
+      {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWKkmin53XXBz2Yyk3ZCF4aV0GVV6YBi8DVSistxbVg&s=10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
