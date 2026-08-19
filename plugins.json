@@ -126,6 +126,28 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziMom.cs3",
     "name": "DiziMom"
   },
+      {
+    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 24863,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "SAKLImavi"  
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 23,
+    "internalName": "DiziYou",
+    "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziYou.cs3",
+    "name": "DiziYou"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
     "apiVersion": 1,
@@ -148,7 +170,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziGom.cs3",
     "name": "DiziGom"
   },
-  {
+      {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -210,6 +232,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DMax.cs3",
     "name": "Dmax"
   },
+      {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 18984,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 20,
+    "internalName": "FullHDFilmizlesene",
+    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
@@ -250,6 +292,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/Full4kizle.cs3",
     "name": "Full4kizle"
   },
+      {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8W-p5YrCpkEUvLY_Fg-j3TlGpuGP8nlJlQmkZtRQF4Fw7z89Lp_5CHk&s=10",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "KultFilmler",
+    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/KultFilmler.cs3",
+    "name": "KultFilmler"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
     "apiVersion": 1,
@@ -272,7 +334,7 @@
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 37799,
     "status": 1,
     "language": "tr",
@@ -292,10 +354,50 @@
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
     "name": "InatBox"
   },
+      {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDxC_qLI5-SUqF8sbfdvwOrQlPRempV-Q5s47KAV55w&s",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 24598,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "powerDizi",
+    "description": "powerDizi, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/powerDizi.cs3",
+    "name": "powerDizi"
+  },
+          {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDxC_qLI5-SUqF8sbfdvwOrQlPRempV-Q5s47KAV55w&s",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 24598,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "powerSinema",
+    "description": "powerSinema, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/powerSinema.cs3",
+    "name": "powerSinema"
+  },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 24598,
     "status": 1,
     "language": "tr",
@@ -315,7 +417,7 @@
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 22979,
     "status": 0,
     "language": "tr",
@@ -333,10 +435,52 @@
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
     "name": "KultFilmler"
   },
+      {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 22979,
+    "status": 0,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 22,
+    "internalName": "RareFilmm",
+    "description": "RareFilmm özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
+    "name": "RareFilmm"
+  },
+          {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 22979,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 22,
+    "internalName": "SelcukFlix",
+    "description": "SelcukFlix özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
+    "name": "SelcukFlix"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 14710,
     "status": 1,
     "language": "tr",
