@@ -473,7 +473,7 @@
     "version": 22,
     "internalName": "KultFilmler",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/KultFilmler.cs3",
     "name": "KultFilmler"
   },
       {
@@ -494,7 +494,7 @@
     "version": 22,
     "internalName": "RareFilmm",
     "description": "RareFilmm özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/RareFilmm.cs3",
     "name": "RareFilmm"
   },
           {
@@ -515,7 +515,7 @@
     "version": 22,
     "internalName": "SelcukFlix",
     "description": "SelcukFlix özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
       {
@@ -574,7 +574,7 @@
     "version": 2,
     "internalName": "Tlc",
     "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Tlc.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/TLC.cs3",
     "name": "Tlc"
   }
  ]
