@@ -395,7 +395,7 @@
     "name": "powerSinema"
   },
   {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 24598,
@@ -409,17 +409,17 @@
       "Live"
     ],
     "version": 6,
-    "internalName": "UmayCanli",
-    "description": "UmayCanli, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/UmayCanli.cs3",
-    "name": "UmayCanli"
+    "internalName": "Streamed",
+    "description": "Streamed, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Streamed.cs3",
+    "name": "Streamed"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 22979,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "kraptor",
@@ -440,7 +440,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 22979,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "kraptor",
