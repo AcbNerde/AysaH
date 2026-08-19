@@ -40,7 +40,7 @@
       "Anime"
     ],
     "version": 28,
-    "internalName": "AAnimeler",
+    "internalName": "Animeler",
     "description": "Animeler, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animeler.cs3",
     "name": "Animeler"
@@ -115,7 +115,7 @@
     "name": "OnePaceTr"
   },
                         {
-    "iconUrl": "l": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&si",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&si",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 36965,
@@ -138,7 +138,7 @@
     "name": "OpenAnime"
   },
                             {
-    "iconUrl": "l": "l": "https://seicode.net/favico",
+    "iconUrl": "https://seicode.net/favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 36965,
@@ -757,7 +757,7 @@
     "name": "SineWix"
   },
           {
-    "iconUrl": "https://images.seeklogo.com/logo-png/50/1/cinemaxx-logo-png_seeklogo-507782.png",
+   "iconUrl": "https://images.seeklogo.com/logo-png/50/1/cinemaxx-logo-png_seeklogo-507782.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "fileSize": 12046,
