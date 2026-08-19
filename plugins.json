@@ -455,6 +455,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Streamed.cs3",
     "name": "Streamed"
   },
+      {
+    "iconUrl": "https://umay.org.tr/wp-content/uploads/2022/06/umay-logo-acik-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 24598,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "UmayCanli",
+    "description": "UmayCanli, Türkiye canlı yayın yapılan bir platformdu",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/UmayCanli.cs3",
+    "name": "UmayCanli"
+  },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
     "apiVersion": 1,
