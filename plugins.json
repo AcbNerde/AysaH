@@ -22,6 +22,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AnimeciX.cs3",
     "name": "AnimeciX"
   },
+          {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "TRasyalog",
+    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TRasyalog.cs3",
+    "name": "TRasyalog"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
@@ -43,6 +63,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/CizgiMax.cs3",
     "name": "CizgiMax"
   },
+      {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWKkmin53XXBz2Yyk3ZCF4aV0GVV6YBi8DVSistxbVg&s=10",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 16454,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac",
+      "SAKLImavi"  
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 6,
+    "internalName": "CinemaCity",
+    "description": "CinemaCity - ",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/CinemaCity.cs3",
+    "name": "CinemaCity"
+  },
   {
     "iconUrl": "https://www.ddizi.im/images/logo.png",
     "apiVersion": 1,
@@ -63,25 +103,25 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DDizi.cs3",
     "name": "Ddizi"
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+      {
+    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 16454,
+    "fileSize": 14876,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac",
-      "SAKLImavi"  
+      "SAKLImavi"
     ],
     "tvTypes": [
-      "Movie"
+      "TvSeries"
     ],
-    "version": 6,
-    "internalName": "CinemaCity",
-    "description": "CinemaCity - ",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/CinemaCity.cs3",
-    "name": "CinemaCity"
+    "version": 2,
+    "internalName": "Dmax",
+    "description": "Dmax dizi ve programlarını takip etmek için ziyaret edin. Dmax dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DMax.cs3",
+    "name": "Dmax"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
@@ -212,26 +252,6 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal"
   },
-  {
-    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 14876,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac",
-      "SAKLImavi"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "Dmax",
-    "description": "Dmax dizi ve programlarını takip etmek için ziyaret edin. Dmax dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DMax.cs3",
-    "name": "Dmax"
-  },
       {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
@@ -291,26 +311,6 @@
     "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/Full4kizle.cs3",
     "name": "Full4kizle"
-  },
-      {
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8W-p5YrCpkEUvLY_Fg-j3TlGpuGP8nlJlQmkZtRQF4Fw7z89Lp_5CHk&s=10",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
-    "fileSize": 12046,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "SAKLImavi"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 8,
-    "internalName": "KultFilmler",
-    "description": "Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/KultFilmler.cs3",
-    "name": "KultFilmler"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
@@ -394,6 +394,26 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/powerSinema.cs3",
     "name": "powerSinema"
   },
+      {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 24598,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "SezonlukDizi",
+    "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SezonlukDizi.cs3",
+    "name": "SezonlukDizi"
+  },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
@@ -476,6 +496,46 @@
     "description": "SelcukFlix özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
     "name": "SelcukFlix"
+  },
+      {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "SineWix",
+    "description": "SineWix | Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/SineWix.cs3",
+    "name": "SineWix"
+  },
+          {
+    "iconUrl": "https://images.seeklogo.com/logo-png/50/1/cinemaxx-logo-png_seeklogo-507782.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "fileSize": 12046,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor",
+      "SAKLImavi"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "SinemaCX",
+    "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/SinemaCX.cs3",
+    "name": "SinemaCX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
