@@ -1,5 +1,5 @@
 [
-  {
+    {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -22,7 +22,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AnimeciX.cs3",
     "name": "AnimeciX"
   },
-  {
+        {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -45,7 +45,7 @@
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animeler.cs3",
     "name": "Animeler"
   },
-  {
+            {
     "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -68,7 +68,7 @@
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animely.cs3",
     "name": "Animely"
   },
-  {
+                {
     "iconUrl": "https://anizium.co/assets/images/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -91,7 +91,7 @@
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Anizium.cs3",
     "name": "Anizium"
   },
-  {
+                    {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -114,7 +114,7 @@
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/OnePaceTr.cs3",
     "name": "OnePaceTr"
   },
-  {
+                        {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&si",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -134,10 +134,10 @@
     "version": 28,
     "internalName": "OpenAnime",
     "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/OpenAnime.cs3",
+    "url": "l": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/OpenAnim",
     "name": "OpenAnime"
   },
-  {
+                            {
     "iconUrl": "https://seicode.net/favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -155,12 +155,12 @@
       "Anime"
     ],
     "version": 28,
-    "internalName": "SeiCode",
-    "description": "Seicode ile en yeni animeleri keşfet",
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SeiCode.cs3",
-    "name": "SeiCode"
+    "internalName": "e": "SeiCode",
+    "description": "n": "Seicode ile en yeni animeler keşfet",
+    "url": "l": "l": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SeiCode.cs3",
+    "name": "e": "SeiCode"
   },
-  {
+          {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -180,7 +180,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/TRasyalog.cs3",
     "name": "TRasyalog"
   },
-  {
+              {
     "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2022/01/cropped-Asya-animeleri-12-e1629130525708-2-e1641560729784.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -200,7 +200,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri"
   },
-  {
+                  {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -216,11 +216,11 @@
     ],
     "version": 8,
     "internalName": "AnimeAV",
-    "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
+    "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AnimeAV.cs3",
     "name": "AnimeAV"
   },
-  {
+                      {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -236,7 +236,7 @@
     ],
     "version": 8,
     "internalName": "AnimeWorld",
-    "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
+    "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualit\u00e0, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/AnimeWorld.cs3",
     "name": "AnimeWorld"
   },
@@ -250,7 +250,7 @@
     "authors": [
       "keyiflerolsun",
       "kraptor",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Cartoon"
@@ -261,7 +261,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/CizgiMax.cs3",
     "name": "CizgiMax"
   },
-  {
+      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -271,18 +271,18 @@
     "authors": [
       "keyiflerolsun",
       "kraptor",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Documentary"
     ],
     "version": 16,
     "internalName": "BelgeselX",
-    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/BelgeselX.cs3",
     "name": "BelgeselX"
   },
-  {
+      {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWKkmin53XXBz2Yyk3ZCF4aV0GVV6YBi8DVSistxbVg&s=10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -291,7 +291,7 @@
     "language": "tr",
     "authors": [
       "kerimmkirac",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Movie"
@@ -311,7 +311,7 @@
     "language": "tr",
     "authors": [
       "kraptor",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "TvSeries"
@@ -322,7 +322,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DDizi.cs3",
     "name": "Ddizi"
   },
-  {
+      {
     "iconUrl": "https://www.dmax.com.tr/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -352,7 +352,7 @@
     "authors": [
       "kraptor",
       "kerimmkirac",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "TvSeries"
@@ -363,7 +363,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziBox.cs3",
     "name": "DiziBox"
   },
-  {
+      {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3i8Oh50w3p9CykNQH9sLGQdsZcDt0RYcHf4e3i4-a6vVvMl49v7FotE&s=10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -373,7 +373,7 @@
     "authors": [
       "kraptor",
       "kerimmkirac",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Movie",
@@ -385,7 +385,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziMom.cs3",
     "name": "DiziMom"
   },
-  {
+      {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -395,7 +395,7 @@
     "authors": [
       "kraptor",
       "kerimmkirac",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Movie",
@@ -417,7 +417,7 @@
     "authors": [
       "kraptor",
       "kerimmkirac",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "Movie",
@@ -429,7 +429,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziGom.cs3",
     "name": "DiziGom"
   },
-  {
+      {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -438,7 +438,7 @@
     "language": "tr",
     "authors": [
       "Kraptor",
-      "SAKLImavi"
+      "SAKLImavi"  
     ],
     "tvTypes": [
       "TvSeries",
@@ -471,7 +471,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal"
   },
-  {
+      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -573,7 +573,7 @@
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/InatBox.cs3",
     "name": "InatBox"
   },
-  {
+      {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDxC_qLI5-SUqF8sbfdvwOrQlPRempV-Q5s47KAV55w&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -593,7 +593,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/powerDizi.cs3",
     "name": "powerDizi"
   },
-  {
+          {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDxC_qLI5-SUqF8sbfdvwOrQlPRempV-Q5s47KAV55w&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -613,7 +613,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/powerSinema.cs3",
     "name": "powerSinema"
   },
-  {
+      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -629,7 +629,7 @@
     ],
     "version": 6,
     "internalName": "SezonlukDizi",
-    "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SezonlukDizi.cs3",
     "name": "SezonlukDizi"
   },
@@ -653,7 +653,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Streamed.cs3",
     "name": "Streamed"
   },
-  {
+      {
     "iconUrl": "https://umay.org.tr/wp-content/uploads/2022/06/umay-logo-acik-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -694,7 +694,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/KultFilmler.cs3",
     "name": "KultFilmler"
   },
-  {
+      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -715,7 +715,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/RareFilmm.cs3",
     "name": "RareFilmm"
   },
-  {
+          {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -736,7 +736,7 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
-  {
+      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -752,11 +752,11 @@
     ],
     "version": 8,
     "internalName": "SineWix",
-    "description": "SineWix | Film - Dizi - Anime İzleme Uygulaması",
+    "description": "SineWix | Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/SineWix.cs3",
     "name": "SineWix"
   },
-  {
+          {
     "iconUrl": "https://images.seeklogo.com/logo-png/50/1/cinemaxx-logo-png_seeklogo-507782.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/UmayTrade/Mytv",
@@ -772,7 +772,7 @@
     ],
     "version": 8,
     "internalName": "SinemaCX",
-    "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/refs/heads/builds/SinemaCX.cs3",
     "name": "SinemaCX"
   },
@@ -795,4 +795,4 @@
     "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/TLC.cs3",
     "name": "Tlc"
   }
-]
+ ]
