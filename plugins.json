@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/AnimeciX.cs3",
     "status": 1,
     "version": 88,
     "name": "AnimeciX",
@@ -13,7 +13,7 @@
     ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "fileSize": 172055,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
     "language": "tr",
     "tvTypes": [
       "Anime"
@@ -23,45 +23,47 @@
     "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38"
   },
   {
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AnimeAV.cs3",
+    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animeler.cs3",
     "status": 1,
     "version": 41,
-    "name": "AnimeAV",
-    "internalName": "AnimeAV",
+    "name": "Animeler",
+    "internalName": "Animeler",
     "authors": [
-      "SAKLImavi",
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
     ],
-    "description": "HD kalitesinde ücretsiz anime izle! Animelerav, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
     "fileSize": 52348,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytvs",
+    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
     "language": "tr",
     "tvTypes": [
       "Anime"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-221372bc17e3a7b96514ed9dbfe2d631027712970f7573ba29a43bd1c9ba2e4c"
   },
   {
-    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AsyaAnimeleri.cs3",
+    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animely.cs3",
     "status": 1,
     "version": 4,
-    "name": "AsyaAnimeleri",
-    "internalName": "AsyaAnimeleri",
+    "name": "Animely",
+    "internalName": "Animely",
     "authors": [
       "kraptor",
       "ByAyzen"
     ],
-    "description": "Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+    "description": "Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
     "fileSize": 40161,
-    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
+    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
     "language": "tr",
     "tvTypes": [
       "Anime",
       "AnimeMovie",
       "OVA"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
+    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
     "apiVersion": 1,
     "fileHash": "sha256-ff272f0caeb3ae79ded86e10826ff5e89f1b61f0227a45e14d825107b3be4cb9"
   },
