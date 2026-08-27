@@ -151,17 +151,18 @@
     "fileHash": "sha256-65e9260e4266b065895d6c5ff03ca8751021176cd20a2f031c8eb6d6cab12910"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/AsyaWatch.cs3",
     "status": 1,
     "version": 41,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
-      "kerimmkirac"
+      "kerimmkirac",
+      "SAKLImavi"
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
     "fileSize": 72067,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "AsianDrama"
