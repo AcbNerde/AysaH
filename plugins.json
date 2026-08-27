@@ -530,17 +530,17 @@
     "fileHash": "sha256-2fd00b01979aec233433cf0030320dd03a4b9881dbe8cec4c8908b3ea67ec8f0"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/DiziYou.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/DiziYou.cs3",
     "status": 1,
     "version": 49,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
-      "ByAyzen"
+      "SAKLImavi"
     ],
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "fileSize": 57068,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -870,17 +870,17 @@
     "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/KultFilmler.cs3",
     "status": 1,
     "version": 31,
     "name": "KultFilmler",
     "internalName": "KultFilmler",
     "authors": [
-      "kraptor"
+      "SAKLImavi"
     ],
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "fileSize": 31282,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -956,17 +956,17 @@
     "fileHash": "sha256-49114c1d6b31b21491f7d93383601e3cbceec9fa960978efe09ee67baa488e0f"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/RareFilmm.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/RareFilmm.cs3",
     "status": 1,
     "version": 20,
     "name": "RareFilmm",
     "internalName": "RareFilmm",
     "authors": [
-      "ByAyzen"
+      "SAKLImavi"
     ],
     "description": "The Cave of Forgotten Films",
     "fileSize": 35376,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "en",
     "tvTypes": [
       "Movie"
@@ -1063,18 +1063,17 @@
     "fileHash": "sha256-0924b29d367baf9bce40363b48d209614ef5c64368d82ce9370d2b59a3376437"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SezonlukDizi.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SezonlukDizi.cs3",
     "status": 1,
     "version": 40,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
-      "kraptor",
-      "kerimmkirac"
+      "SAKLImavi"
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "fileSize": 103378,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -1084,17 +1083,17 @@
     "fileHash": "sha256-2b29896fd95003779fc9bf3216aa89bd7029eefad01c4ac4fc6006d7b1f98dd1"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SinemaCX.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SinemaCX.cs3",
     "status": 1,
     "version": 35,
     "name": "SinemaCX",
     "internalName": "SinemaCX",
     "authors": [
-      "kraptor"
+      "SAKLImavi"
     ],
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "fileSize": 27438,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -1104,18 +1103,17 @@
     "fileHash": "sha256-c59a3a99f4fe10638bb0ebebbb3a71902fd93289048826c2e55ff08982d7186f"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SineWix.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/SineWix.cs3",
     "status": 1,
     "version": 33,
     "name": "SineWix",
     "internalName": "SineWix",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "SAKLImavi"
     ],
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "fileSize": 77299,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "Movie",
