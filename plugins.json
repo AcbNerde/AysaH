@@ -88,24 +88,23 @@
     "fileHash": "sha256-57ab29e68b7e44673ece4049b15a20c064074560da56bdc4d4afac781f035275"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Anizium.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/BirAsyaDizi.cs3",
     "status": 1,
     "version": 25,
-    "name": "Anizium",
-    "internalName": "Anizium",
+    "name": "BirAsyaDizi",
+    "internalName": "BirAsyaDizi",
     "authors": [
-      "kerimmkirac",
+      "SAKLImavi",
       "ByAyzen"
     ],
-    "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "fileSize": 80371,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
-      "AnimeMovie",
-      "Anime"
+      "AsianDrama"
     ],
-    "iconUrl": "https://anizium.co/assets/images/logo.png",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
     "apiVersion": 1,
     "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb"
   },
