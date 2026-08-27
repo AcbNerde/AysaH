@@ -23,24 +23,24 @@
     "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/Animeler.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/TRasyalog.cs3",
     "status": 1,
     "version": 41,
-    "name": "Animeler",
-    "internalName": "Animeler",
+    "name": "TRasyalog",
+    "internalName": "TRasyalog",
     "authors": [
       "kraptor",
       "ByAyzen",
-      "kerimmkirac"
+      "SAKLImavi"
     ],
-    "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "description": "TRasyalog izleme sitesi.",
     "fileSize": 52348,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
-      "Anime"
+      "TvSeries"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-221372bc17e3a7b96514ed9dbfe2d631027712970f7573ba29a43bd1c9ba2e4c"
   },
