@@ -254,17 +254,17 @@
     "fileHash": "sha256-4e20618c5b65b5ee28f58db98889d48d1245d06f9ee5028663d8d66988c9abf8"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/DiziAsia.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/DiziAsia.cs3",
     "status": 1,
     "version": 20,
     "name": "DiziAsia",
     "internalName": "DiziAsia",
     "authors": [
-      "kerimmkirac"
+      "SAKLImavi"
     ],
     "description": "DiziAsia - Asya Dizileri İzle",
     "fileSize": 25718,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "AsianDrama"
@@ -424,17 +424,17 @@
     "fileHash": "sha256-aab334fad3a465dc2eef948b2883f2e5a1b05e33eeac2ec66ebc7dea728c7c08"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/DiziMom.cs3",
     "status": 1,
     "version": 61,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "kraptor"
+      "SAKLImavi"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "fileSize": 55291,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -444,18 +444,17 @@
     "fileHash": "sha256-d0f2af2b7be8e19197841e6aa678ec7009ab8411ac168cfdd155427841ab6752"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/DiziPal.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/DiziPal.cs3",
     "status": 1,
     "version": 89,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "SAKLmavi"
     ],
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "fileSize": 38248,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -466,19 +465,17 @@
     "fileHash": "sha256-d6bc9075369fed694b9a7bb28e0a78c4ac4467c59c60209c1bcc7389d5465bfe"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/DiziPalOrijinal.cs3",
+    "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/DiziPalOrijinal.cs3",
     "status": 1,
     "version": 45,
     "name": "DiziPalOrijinal",
     "internalName": "DiziPalOrijinal",
     "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
+      "SAKLImavi"
     ],
     "description": "DiziPal Orijinal.",
     "fileSize": 160865,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
