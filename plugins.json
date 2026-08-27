@@ -976,17 +976,17 @@
     "fileHash": "sha256-23ec3a3a6ab5751a1d1bccd9af8544e97db5c544b1fa752db87b0b04f8b8838a"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/RecTV.cs3",
+    "url": https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Streamed.cs3",
     "status": 1,
     "version": 43,
-    "name": "RecTV",
-    "internalName": "RecTV",
+    "name": "Streamed",
+    "internalName": "Streamed",
     "authors": [
-      "Eagle"
+      "SAKLImavi"
     ],
-    "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
     "fileSize": 71232,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "repositoryUrl": "https://github.com/UmayTrade/Mytv",
     "language": "tr",
     "tvTypes": [
       "Movie",
