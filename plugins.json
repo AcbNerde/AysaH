@@ -185,7 +185,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+        "repositoryUrl": "https://github.com/UmayTrade/Mytv",
         "fileSize": 47522,
         "status": 1,
         "language": "tr",
@@ -197,10 +197,10 @@
             "Cartoon"
         ],
         "version": 36,
-        "internalName": "CizgiMax",
-        "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/CizgiMax.cs3",
-        "name": "CizgiMax"
+        "internalName": "Anizium",
+        "description": "Anizium ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+        "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Anizium.cs3",
+        "name": "Anizium"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
@@ -698,7 +698,7 @@
         "version": 97,
         "internalName": "HDFilmCehennemi",
         "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
-        "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/HDFilmCehennemi.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/Mytv/builds/Hdfilmcehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
     {
