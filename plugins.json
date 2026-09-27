@@ -433,26 +433,25 @@
         "fileHash": "sha256-cef5abf041420bce0087f40afd8ef164405cb9bded3d525c0f1d9adfefb3b33e"
     },
     {
-        "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
-        "status": 1,
-        "version": 44,
-        "name": "DiziPal",
-        "internalName": "DiziPal",
-        "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
-        ],
-        "description": "DiziPal - G\u00fcncel domain (dizipal1541.com) - en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 24885,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-dd6312f7c984856519a69c78fff5cb311bfa112d91f2af5693c17996a74f91d3"
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
+        "fileHash":  "sha256-f1d11bf7db3b590a5257409750e1d1f9fb82bde34c0d9a7c24ab0369888ead3e",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  67409,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  6,
+        "internalName":  "Dizipal",
+        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
+        "name":  "Dizipal"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziPalOrijinal.cs3",
