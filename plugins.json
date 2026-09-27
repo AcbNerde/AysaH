@@ -760,26 +760,25 @@
         "name": "FullHDFilmizlesene"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmCehennemi.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Hdfilmcehennemi.cs3",
         "status": 1,
-        "version": 49,
-        "name": "HDFilmCehennemi",
-        "internalName": "HDFilmCehennemi",
+        "version": 8,
+        "name": "Hdfilmcehennemi",
+        "internalName": "Hdfilmcehennemi",
         "authors": [
-            "hexated",
-            "keyiflerolsun"
+            "CloudStream User"
         ],
-        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "fileSize": 31729,
+        "description": "HDFilmCehennemi Turkce Film ve Dizi Saglayicisi",
+        "fileSize": 29964,
         "repositoryUrl": "https://github.com/UmayTrade/MyTV",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "iconUrl": "https://www.hdfilmcehennemi.nl/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-3aac474540867fbd79e6f76d35ca60e9ea04189f3a38f1d60112978fd5907087"
+        "fileHash": "sha256-985540a665b9ee5ac016ff3251d023a014cd1f06fb69f8dca71019a78230e875"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmCehennemi1.cs3",
