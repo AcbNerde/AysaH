@@ -659,27 +659,24 @@
         "fileHash": "sha256-aeb2e0597193d11e79837419c03cf362417d4ad01ce5cf9c1b048fce6a7c0b5f"
     },
     {
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmMakinesi.cs3",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=%size%",
+        "fileHash": "sha256-5906e73fd4430992b03dee6fb74dcced65debea3ae868174fbf0468769d0f1b6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 28863,
         "status": 1,
-        "version": 20,
-        "name": "FilmMakinesi",
-        "internalName": "FilmMakinesi",
-        "authors": [
-            "keyiflerolsun",
-            "usdogu",
-            "nikyokki",
-            "kraptor"
-        ],
-        "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 32400,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
         "language": "tr",
+        "authors": [
+            "PARS"
+        ],
         "tvTypes": [
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-1fb9a4869aa4ab5a589500e8fd764a29e4d1304af4dd0e12df5d16b2ef19c83b"
+        "version": 2,
+        "internalName": "FilmMakinesi",
+        "description": "FilmMakinesi ",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmModu.cs3",
@@ -723,45 +720,45 @@
         "fileHash": "sha256-2de45b36050cf50b7ebfcb0f9eb264e2099ede6d16b54a69cb60ffb03b233e45"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Filmzal.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "Filmzal",
-        "internalName": "Filmzal",
-        "authors": [
-            "NeO"
-        ],
-        "description": "Filmzal - Film ve dizi izleme.",
-        "fileSize": 22036,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizle.now&sz=%size%",
+        "fileHash": "sha256-07d1ef9cd5ea91be139fadafdb98713a375b772e2377b8d29a6b8945bf1d95a6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 26873,
+        "status": 3,
         "language": "tr",
+        "authors": [
+            "PARS"
+        ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmzal.me&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-dc750508ee501fb8e9ded36a74380a76268db24a5381620d94abaceb0225c0d0"
+        "version": 1,
+        "internalName": "FullHDFilmizle",
+        "description": "FullHDFilmizle provider",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizle.cs3",
+        "name": "FullHDFilmizle"
     },
     {
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizlesene.cs3",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now&sz=%size%",
+        "fileHash": "sha256-0b68fa935f0137f432270b98fd705e39cb78f49967fc4b9353ce7e188041ed23",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 39637,
         "status": 1,
-        "version": 8,
-        "name": "FullHDFilmizlesene",
-        "internalName": "FullHDFilmizlesene",
-        "authors": [
-            "CloudStream User"
-        ],
-        "description": "FullHDFilmizlesene Turkce Film Saglayicisi",
-        "fileSize": 21893,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
         "language": "tr",
+        "authors": [
+            "PARS"
+        ],
         "tvTypes": [
             "Movie"
         ],
-        "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-e2a651b5fdb6620bb5fd96c9a91d842b1a8df207685c697c7bf8a259d345d794"
+        "version": 2,
+        "internalName": "FullHDFilmizlesene",
+        "description": "FullHDFilmizlesene - SCX -> RapidVid -> HLS",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmCehennemi.cs3",
@@ -1036,25 +1033,25 @@
         "fileHash": "sha256-83a23cd63c4631293ccebf3bac3c5b7f344ca2808c241e3005cce58f7606ff05"
     },
     {
-        "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SetFilm.cs3",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=setfilmizle.ltd&sz=%size%",
+        "fileHash": "sha256-a7b6c1aecf2a1630ee908b635b3d5ecba7ff835eb3fdc0b2ca43b2ef4bafa4b6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 36400,
         "status": 1,
-        "version": 30,
-        "name": "SetFilmIzle",
-        "internalName": "SetFilmIzle",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "fileSize": 40032,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
         "language": "tr",
+        "authors": [
+            "PARS"
+        ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-40a642e173c5e8c3b05b10b8186c60dfda70fb29018d2147f6daf6b981bfedf5"
+        "version": 1,
+        "internalName": "SetFilm",
+        "description": "SetFilm - Son Filmler, IMDb En \u0130yiler ve Diziler",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SetFilm.cs3",
+        "name": "SetFilm"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SezonlukDizi.cs3",
