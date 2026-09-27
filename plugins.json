@@ -1072,25 +1072,24 @@
         "fileHash": "sha256-9d037c5fc76eb2de3b094d341f5bc765592bb7563f27fe611853386f0adcacb1"
     },
     {
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/ShowTV.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "Showtv",
-        "internalName": "Showtv",
-        "authors": [
-            "UmayTrade"
-        ],
-        "description": "Show TV'nin sevilen dizileri ve programlar\u0131: Muhtemel A\u015fk, K\u0131z\u0131lc\u0131k \u015eerbeti, Sevdan Bir Ate\u015f, G\u00fcld\u00fcr G\u00fcld\u00fcr Show ve daha fazlas\u0131.",
-        "fileSize": 24910,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries",
-            "Live"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
+        "iconUrl": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png",
+        "fileHash": "sha256-d7ed8b5fa792fc3f9a9c2c1a609cd817e42a3370b1c03a01ce9a65face2d3e59",
         "apiVersion": 1,
-        "fileHash": "sha256-4842fdd620b9eb3bffc453749f2f7f8c904e5dca004f0e2d526f2a25025cfbbf"
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 28195,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "ShowTV",
+        "description": "Show TV dizilerini ve b\u00f6l\u00fcmlerini do\u011frudan ShowTV \u00fczerinden otomatik listeler.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/ShowTV.cs3",
+        "name": "ShowTV"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Sinefy.cs3",
