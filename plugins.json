@@ -781,28 +781,6 @@
         "fileHash": "sha256-985540a665b9ee5ac016ff3251d023a014cd1f06fb69f8dca71019a78230e875"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmCehennemi1.cs3",
-        "status": 1,
-        "version": 48,
-        "name": "HDFilmCehennemi1",
-        "internalName": "HDFilmCehennemi1",
-        "authors": [
-            "hexated",
-            "keyiflerolsun"
-        ],
-        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "fileSize": 31696,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-991505e4800e98458519dd563fca01c4bfc03763e6452b8d61d3c5eb9776cbb6"
-    },
-    {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HdFilmCehennemi2.cs3",
         "status": 1,
         "version": 14,
