@@ -659,7 +659,7 @@
         "fileHash": "sha256-aeb2e0597193d11e79837419c03cf362417d4ad01ce5cf9c1b048fce6a7c0b5f"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmMakinesi.cs3",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmMakinesi.cs3",
         "status": 1,
         "version": 20,
         "name": "FilmMakinesi",
@@ -744,7 +744,7 @@
         "fileHash": "sha256-dc750508ee501fb8e9ded36a74380a76268db24a5381620d94abaceb0225c0d0"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FullHDFilmizlesene.cs3",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizlesene.cs3",
         "status": 1,
         "version": 8,
         "name": "FullHDFilmizlesene",
@@ -1077,7 +1077,7 @@
         "fileHash": "sha256-9d037c5fc76eb2de3b094d341f5bc765592bb7563f27fe611853386f0adcacb1"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Showtv.cs3",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/ShowTV.cs3",
         "status": 1,
         "version": 1,
         "name": "Showtv",
