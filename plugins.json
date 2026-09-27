@@ -1032,25 +1032,25 @@
         "fileHash": "sha256-83a23cd63c4631293ccebf3bac3c5b7f344ca2808c241e3005cce58f7606ff05"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=setfilmizle.ltd&sz=%size%",
-        "fileHash": "sha256-a7b6c1aecf2a1630ee908b635b3d5ecba7ff835eb3fdc0b2ca43b2ef4bafa4b6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
-        "fileSize": 36400,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "PARS"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "SetFilm",
-        "description": "SetFilm - Son Filmler, IMDb En \u0130yiler ve Diziler",
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SetFilm.cs3",
-        "name": "SetFilm"
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd\u0026sz=%size%",
+        "fileHash":  "sha256-441bb4a936e91970d3433c3eae24ea1fa1d9085c78d0d01afce2f206d5b4f157",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  56860,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  4,
+        "internalName":  "SetFilm",
+        "description":  "Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SetFilm.cs3",
+        "name":  "SetFilm"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SezonlukDizi.cs3",
