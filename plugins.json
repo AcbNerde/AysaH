@@ -1,157 +1,156 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AnimeAV.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeAV.cs3",
         "status": 1,
-        "version": 17,
+        "version": 1,
         "name": "AnimeAV",
         "internalName": "AnimeAV",
         "authors": [
-            "kraptor",
-            "ByAyzen"
+            "Blockades"
         ],
         "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
-        "fileSize": 27726,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "mx",
+        "fileSize": 27727,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
         "apiVersion": 1,
-        "fileHash": "sha256-fcf47ba472388c30843a5878f370987f58ceea462597afcadf913dd0ad1d6798"
+        "fileHash": "sha256-c35fb26bacc80b1b526b4e678180a2eb256724b13820b85075f09bb39e7053a6"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AnimeciX.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeciX.cs3",
         "status": 1,
         "version": 1,
         "name": "AnimeciX",
         "internalName": "AnimeciX",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "AnimeciX, animeleri ke\u015ffedebilece\u011finiz ve animeler hakk\u0131nda her \u015feyi \u00f6\u011frenebilece\u011finiz bir payla\u015f\u0131m platformudur.",
-        "fileSize": 26235,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 26231,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://anm.cx/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-f163e34854c77ac97df1291a58161e6418d7b5a4d53ea4f8b581e6e85bb16943"
+        "fileHash": "sha256-6cc5e82091fe24c03a5f2d2d7fcf04e050c86d2352f31e8f767a7704992abff7"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AnimeWorld.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeWorld.cs3",
         "status": 1,
-        "version": 5,
+        "version": 1,
         "name": "AnimeWorld",
         "internalName": "AnimeWorld",
         "authors": [
-            "ByAyzen"
+            "Blockades"
         ],
         "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualit\u00e0, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
-        "fileSize": 12189,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 16891,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "it",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-5f2aae37b7c494aced9c59084d96a0fd78d5ea6889c2d623d0ccfbd26fdaa464"
+        "fileHash": "sha256-886f57d7496f3e39de75325a27847302ab9a15e344f750188cbf24a98805c406"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AnimeYTX.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeYTX.cs3",
         "status": 1,
-        "version": 8,
+        "version": 1,
         "name": "AnimeYTX",
         "internalName": "AnimeYTX",
         "authors": [
-            "ByAyzen"
+            "Blockades"
         ],
         "description": "\u00danete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido m\u00e1s popular de la animaci\u00f3n japonesa.",
-        "fileSize": 44160,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 44181,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "mx",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-111b67b7f8163644234fcab7103f334fa5d9eb3228003cb90630f929a79a3ef7"
+        "fileHash": "sha256-31360c8e880777272b400e4670f9ac7c14d4f427227042e61acf1bacff1db479"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizium.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Anizium.cs3",
         "status": 1,
-        "version": 28,
+        "version": 1,
         "name": "Anizium",
         "internalName": "Anizium",
         "authors": [
             "Blockades"
         ],
         "description": "T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime \u0130zle.",
-        "fileSize": 44768,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 44770,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://img.utdstc.com/icon/f09/fe1/f09fe1b07c8cbb89291ebb2aeaf82ac0895befabeb8c93024a434d9dd1159358:600",
         "apiVersion": 1,
-        "fileHash": "sha256-d2b5157f842897c832cdf4fc4b1295c7580bf509cf9159a2bd5d5133905408bc"
+        "fileHash": "sha256-ed04cd121975e27e9140410b2ccd2b13ee6cba063f9881d78ce5642636b4323b"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizm.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Anizm.cs3",
         "status": 1,
-        "version": 28,
+        "version": 1,
         "name": "Anizm",
         "internalName": "Anizm",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime \u0130zle.",
-        "fileSize": 65203,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 65227,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
         "apiVersion": 1,
-        "fileHash": "sha256-14388a4ef912b6d910dd14396fee59948e3e5470b9f70fc30e5f1deafd2d7140"
+        "fileHash": "sha256-21327a3535f894862541459bd9c9a8d0e738f4726d0ac089fd671c173bf1439d"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AsyaAnimeleri.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AsyaAnimeleri.cs3",
         "status": 1,
         "version": 1,
         "name": "AsyaAnimeleri",
         "internalName": "AsyaAnimeleri",
         "authors": [
-            "patr0n"
+            "Blockades"
         ],
         "description": "Asya Animeleri - Anime izle, Donghua izle, T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime izle.",
-        "fileSize": 13820,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 13804,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-14a8499db6a9694a25dca869b7133981fbf153641b3b1e9a46c202bc409a57ad"
+        "fileHash": "sha256-f52c6f0beb8fa32a4353d480eb72327abd62ffdb1dde6ad58ff7a1352060f6b5"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/AsyaWatch.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AsyaWatch.cs3",
         "status": 1,
-        "version": 6,
+        "version": 1,
         "name": "AsyaWatch",
         "internalName": "AsyaWatch",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "Asyawatch",
-        "fileSize": 31667,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Asyawatch.",
+        "fileSize": 31646,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -159,124 +158,60 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e61939d0baf0893ca66e5c77cf4d6d23b75c51db47ac23614b9f078e32ce3681"
+        "fileHash": "sha256-f6e7a5e6549e2bff8f2e1456a2f8d697fc8a35bf97361fcd931b95ce686f3708"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Atv.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/BelgeselX.cs3",
         "status": 1,
         "version": 1,
-        "name": "Atv",
-        "internalName": "Atv",
-        "authors": [
-            "kerimmkirac"
-        ],
-        "description": "ATV'nin sevilen dizileri (A\u015fk ve Taht, Alt\u0131 \u00dcst\u00fc \u0130stanbul) ve programlar\u0131 (M\u00fcge Anl\u0131, Esra Erol) izleyin.",
-        "fileSize": 25251,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries",
-            "Live"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-e04c18dc0678a59a3492ac6f09ee887d5883cc4bbe129b55823bc17a9fc9e24c"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/BelgeselX.cs3",
-        "status": 1,
-        "version": 17,
         "name": "BelgeselX",
         "internalName": "BelgeselX",
         "authors": [
-            "keyiflerolsun",
-            "JustRelaxable"
+            "Blockades"
         ],
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 31258,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle..",
+        "fileSize": 31616,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Documentary"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-23ccaabdc59775cd676570bbdf1df1818da93baa0df7750d98cf40b04f524813"
+        "fileHash": "sha256-5269f4d222c237211b3ac6c56db9e4d9f9b0785aabe5d4e5ef51f0e66671ecb8"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/BirAsyaDizi.cs3",
-        "status": 1,
-        "version": 8,
-        "name": "BirAsyaDizi",
-        "internalName": "BirAsyaDizi",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "Asya'n\u0131n En \u00dcnl\u00fc Dizilerini en y\u00fcksek \u00e7\u00f6z\u00fcn\u00fcrl\u00fckte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini s\u00fcr\u00fcn.",
-        "fileSize": 13935,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
-        "apiVersion": 1,
-        "fileHash": "sha256-04fd1ff0f3c67b9d4e5a466025b3990d2979f13cde5878046efb9ed1f8ff1b63"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/CizgiMax.cs3",
-        "status": 1,
-        "version": 16,
-        "name": "CizgiMax",
-        "internalName": "CizgiMax",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
-        "fileSize": 35426,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Cartoon",
-            "Anime",
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-33b823df6506eaf1005ae05634fca64a1bd66262ccdac2f2614872f25930e35f"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DDizi.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DDizi.cs3",
         "status": 1,
         "version": 1,
         "name": "DDizi",
         "internalName": "DDizi",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "DDizi.im i\u00e7in Cloudstream eklentisi.",
-        "fileSize": 20051,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 20053,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9ee3a03f714a17224171c5695a440c0b2dcc5568c3731fa3b6726cb798602054"
+        "fileHash": "sha256-3a243576810ad1b7048e6556c269eea23a505db2e2476b754817015f6074d13f"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziBal.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziBal.cs3",
         "status": 1,
         "version": 1,
         "name": "DiziBal",
         "internalName": "DiziBal",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "En pop\u00fcler yabanc\u0131 dizileri yeni b\u00f6l\u00fcmleriyle takip edin. HBO, Netflix, Apple TV+ yap\u0131mlar\u0131 T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak dizibaL'da!",
-        "fileSize": 35103,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 24081,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -285,20 +220,20 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
         "apiVersion": 1,
-        "fileHash": "sha256-550c6af3af29bedbeb8338cb0a7ee9724ad50ea944b90cf548f3111cfea51451"
+        "fileHash": "sha256-7aa30ccd8b7ab698b36a41288e07908b7fbe52d98417ead024fef8b6b8fef903"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziBol.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziBol.cs3",
         "status": 1,
         "version": 1,
         "name": "DiziBol",
         "internalName": "DiziBol",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "En pop\u00fcler yabanc\u0131 dizileri yeni b\u00f6l\u00fcmleriyle takip edin. HBO, Netflix, Apple TV+ yap\u0131mlar\u0131 T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak dizibaL'da!",
-        "fileSize": 22975,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "En pop\u00fcler yabanc\u0131 dizileri yeni b\u00f6l\u00fcmleriyle takip edin. HBO, Netflix, Apple TV+ yap\u0131mlar\u0131 T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak diziboL'da!",
+        "fileSize": 24107,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -307,122 +242,81 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
         "apiVersion": 1,
-        "fileHash": "sha256-f7e5b56d186916039079ae7240b0a511144e989e3674bfb2a66b0e278efc6fa8"
+        "fileHash": "sha256-90d870c15f6a8d6053156e0e837366093c0d6f36819da0381910f7cc757fa80c"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziBox.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziFilm.cs3",
         "status": 1,
         "version": 1,
-        "name": "DiziBox",
-        "internalName": "DiziBox",
+        "name": "DiziFilm",
+        "internalName": "DiziFilm",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site..",
-        "fileSize": 30074,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "dizifilmizle.to - Turkish movies & series",
+        "fileSize": 33922,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
-            "Movie"
+            "Movie",
+            "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+        "iconUrl": "https://dizifilmizle.to/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-26f1a2302f5af528507836b9970bf1f95c2cb026791cd68411984af05cad1773"
+        "fileHash": "sha256-b928309aa8556e09414c0fd0f46485dd7730ab438f88defc3a94f376838e3761"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziKorea.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziKorea.cs3",
         "status": 1,
-        "version": 41,
+        "version": 1,
         "name": "DiziKorea",
         "internalName": "DiziKorea",
         "authors": [
-            "keyiflerolsun"
+            "Blockades"
         ],
         "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
-        "fileSize": 23515,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 23509,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "AsianDrama"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-10fda87162d8d82b8f5684f49e660d1e8b496808996a8d5f850d26046848fca8"
+        "fileHash": "sha256-e4943e381d3d4f7b5d8e90e9cadbdc73d33122450851aab394c3703636faa82b"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziLife.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
         "status": 1,
-        "version": 2,
-        "name": "DiziLife",
-        "internalName": "DiziLife",
-        "authors": [
-            "UmayTrade"
-        ],
-        "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
-        "fileSize": 17054,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-91e832b6e6701c1f035bc453ac34ff4882186eba4629d80530f8becda674ab15"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Dizilla.cs3",
-        "status": 1,
-        "version": 25,
+        "version": 1,
         "name": "Dizilla",
         "internalName": "Dizilla",
         "authors": [
-            "keyiflerolsun",
-            "nikyokki"
+            "Blockades"
         ],
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 36577,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 36531,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1e32f37969d3bd8cdb78ee457313d5e2b9ad0b9450f8bc2dc8059bc21abb779d"
+        "fileHash": "sha256-4108de8721c1cc4258b724771aa8a49f079bd72e6775f9ec93ac77c27c731904"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziMag.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
         "status": 1,
-        "version": 18,
-        "name": "DiziMag",
-        "internalName": "DiziMag",
-        "authors": [
-            "nikyokki"
-        ],
-        "description": "En son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri DiziMag fark\u0131yla full hd 1080p kalitede izle. Dizimag Geni\u015f ve g\u00fcncel ar\u015fiviyle dizi ve filmlerin tad\u0131n\u0131 \u00e7\u0131kart\u0131n.",
-        "fileSize": 46434,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-e17e0a197ea8431c18309437ca074bc4fb2b4ef4a1c382342c1e7063c0541bef"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziMom.cs3",
-        "status": 1,
-        "version": 5,
+        "version": 3,
         "name": "DiziMom",
         "internalName": "DiziMom",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 26635,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle",
+        "fileSize": 30636,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -430,149 +324,171 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-cef5abf041420bce0087f40afd8ef164405cb9bded3d525c0f1d9adfefb3b33e"
+        "fileHash": "sha256-ef954c9153854c9ec523d2391c13039fea1d6b75bb60f8383c05742c13eb543d"
     },
     {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
-        "fileHash":  "sha256-f1d11bf7db3b590a5257409750e1d1f9fb82bde34c0d9a7c24ab0369888ead3e",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  67409,
-        "status":  3,
-        "language":  "tr",
-        "authors":  [
-                        "manitux"
-                    ],
-        "tvTypes":  [
-                        "TvSeries",
-                        "Movie"
-                    ],
-        "version":  6,
-        "internalName":  "Dizipal",
-        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
-        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
-        "name":  "Dizipal"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziPalOrijinal.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
         "status": 1,
-        "version": 22,
+        "version": 2,
+        "name": "DiziPal",
+        "internalName": "DiziPal",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "fileSize": 28492,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-521c35f8b5fd61b23a56e567ea7d465ac54178e8e0c574201aa9d5bffd10933f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "DiziPal2",
+        "internalName": "DiziPal2",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "fileSize": 27692,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2079f1ae9c0c084ce05c30a558ff11553d15e706da422844d7bdca26ee6c945a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
+        "status": 1,
+        "version": 3,
         "name": "DiziPalOrijinal",
         "internalName": "DiziPalOrijinal",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48296,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 48294,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
+            "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1583.com&size=128",
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-2654dfa7f1477eff434f66e773493fdaf8247737695747bf8bba2a851e440ffb"
+        "fileHash": "sha256-62c3f380c516b727505612d032c2a5da2adc2e8c2123c3f66044c39d9fca4f54"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziPod.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
         "status": 1,
-        "version": 3,
+        "version": 1,
         "name": "DiziPod",
         "internalName": "DiziPod",
         "authors": [
-            "patr0n"
+            "Blockades"
         ],
         "description": "Yabanc\u0131 dizi ve film izleme platformu. Altyaz\u0131l\u0131 yabanc\u0131 dizi ve film izle.",
-        "fileSize": 23437,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 23441,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Movie",
+            "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-0ef6aed4f98dac18071ef47d0e82a3819fe2940be4083b1ad2a6b3f3a6c420f4"
+        "fileHash": "sha256-df1d659485c20c6a631817a8171a6dc8b7cbf0437ca66a31f93edf68abac484e"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DiziYou.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziYou.cs3",
         "status": 1,
-        "version": 25,
+        "version": 1,
         "name": "DiziYou",
         "internalName": "DiziYou",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
-        "fileSize": 17165,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 17167,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-23359a3b339efc5520d32382818644344dcfc628a48da3157df36990f4117219"
+        "fileHash": "sha256-3f64a63682fe1a96717ff5ee47f9274c2af96c054735d43bfa91b46d433c7f7e"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DMax.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DMax.cs3",
         "status": 1,
         "version": 1,
         "name": "DMax",
         "internalName": "DMax",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin..",
-        "fileSize": 14407,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "fileSize": 14426,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e28668dc5e1086823a275e54f450f9e29d92536c8a45a47925915bf158521b14"
+        "fileHash": "sha256-14c50d4e401c0581ce7349fcd7088ebe0eecf3ea10f966807c0b728b97e81e2d"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DocumentaryArea.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DocumentaryArea.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "DocumentaryArea",
         "internalName": "DocumentaryArea",
         "authors": [
-            "ByAyzen"
+            "Blockades"
         ],
-        "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
-        "fileSize": 15657,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "en",
+        "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries",
+        "fileSize": 15662,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
         "tvTypes": [
             "Documentary"
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-021886e32fcf3b9b9de3354d568fca7654547d25192c35ae2628074461dba083"
+        "fileHash": "sha256-4f3104db95d99e96897a14429f8d5502524fc6f0ec3b7e8693cecf494a758342"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/DramaDizilerim.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DramaDizilerim.cs3",
         "status": 1,
-        "version": 3,
+        "version": 1,
         "name": "DramaDizilerim",
         "internalName": "DramaDizilerim",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "En pop\u00fcler NetShort, DramaBox, ReelShort ve FreeReels k\u0131sa dizilerini T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle Full HD kalitede \u00fccretsiz ve reklams\u0131z izleyin.",
-        "fileSize": 15573,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 15572,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8c8f7aee9e609fa90bac26e95517920fda6528579bddc401ba001b2da48f3be7"
+        "fileHash": "sha256-d39cecd38cd1ee6a692392177e9881c89024e46b83a442c45ce2f6008a800c91"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmEkseni.cs3",
