@@ -676,27 +676,6 @@
         "name": "FullHDFilmizlesene"
     },
     {
-        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "HDFilmCehennemi",
-        "internalName": "HDFilmCehennemi",
-        "authors": [
-            "Blockades"
-        ],
-        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "fileSize": 32149,
-        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-b672aad36c423b0d248e6b6ce0e0491bc037f3b384b52017c9851aaffa524124"
-    },
-    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi2.cs3",
         "status": 1,
         "version": 1,
@@ -716,6 +695,27 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi2.biz&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-1abc8454df94e8d2b1913d38eba5ab153cc4937069324f1ff65664a1333b3fe6"
+    },
+        {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HDFilmCehennemi",
+        "internalName": "HDFilmCehennemi",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "fileSize": 32149,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-b672aad36c423b0d248e6b6ce0e0491bc037f3b384b52017c9851aaffa524124"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmizle.cs3",
