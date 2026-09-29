@@ -676,45 +676,46 @@
         "name": "FullHDFilmizlesene"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Hdfilmcehennemi.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
         "status": 1,
-        "version": 8,
-        "name": "Hdfilmcehennemi",
-        "internalName": "Hdfilmcehennemi",
+        "version": 1,
+        "name": "HDFilmCehennemi",
+        "internalName": "HDFilmCehennemi",
         "authors": [
-            "CloudStream User"
+            "Blockades"
         ],
-        "description": "HDFilmCehennemi Turkce Film ve Dizi Saglayicisi",
-        "fileSize": 29964,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "fileSize": 32149,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.hdfilmcehennemi.nl/favicon.ico",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-985540a665b9ee5ac016ff3251d023a014cd1f06fb69f8dca71019a78230e875"
+        "fileHash": "sha256-b672aad36c423b0d248e6b6ce0e0491bc037f3b384b52017c9851aaffa524124"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HdFilmCehennemi2.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi2.cs3",
         "status": 1,
-        "version": 14,
-        "name": "HdFilmCehennemi2",
-        "internalName": "HdFilmCehennemi2",
+        "version": 1,
+        "name": "HDFilmCehennemi2",
+        "internalName": "HDFilmCehennemi2",
         "authors": [
-            "kraptor"
+            "Blockades"
         ],
-        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile ya\u015fay\u0131n. T\u00fcrkiye'nin en g\u00fcncel y\u00fcksek hd kalitede film izleme sitesi.",
-        "fileSize": 26428,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile ya\u015fay\u0131n",
+        "fileSize": 30720,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
-            "Movie"
+            "Movie",
+            "TvSeries"
         ],
-        "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi2.biz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c4746081c38cfb9df914333158973cf07d536189d61e76934e46e25481ba6a47"
+        "fileHash": "sha256-1abc8454df94e8d2b1913d38eba5ab153cc4937069324f1ff65664a1333b3fe6"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmizle.cs3",
@@ -738,17 +739,17 @@
         "fileHash": "sha256-52dec9ce350e63de68b54c39dbef308618cf6ab545b61c37d89ce92b802893f2"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/inatbox-bc.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/InatBox.cs3",
         "status": 1,
-        "version": 14,
-        "name": "inatbox-bc",
-        "internalName": "inatbox-bc",
+        "version": 1,
+        "name": "InatBox",
+        "internalName": "InatBox",
         "authors": [
-            "Dr.Octagon"
+            "Blockades"
         ],
-        "description": "\u0130natBox BronzeCloud Edition - Canl\u0131 kanallar, spor ve diziler burada.",
-        "fileSize": 48772,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "\u0130natBox - Film, dizi ve canl\u0131 yay\u0131n kanallar\u0131",
+        "fileSize": 43062,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -757,7 +758,7 @@
         ],
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
-        "fileHash": "sha256-650348672cfffa34957cca0e176ef3212a17cc80e153539bbf6a7c4f7ac4b25d"
+        "fileHash": "sha256-3bce75c03d5d127842f0a8e62a7a0f6bce1922a3e7088eb6fd8bd786a0d6c651"
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/JetFilmizle.cs3",
@@ -946,24 +947,26 @@
         "name":  "SetFilm"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SezonlukDizi.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SezonlukDizi.cs3",
         "status": 1,
-        "version": 9,
+        "version": 1,
         "name": "SezonlukDizi",
         "internalName": "SezonlukDizi",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 21801,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "sezonlukdizi.cc - Turkish series with subtitles and dubbed",
+        "fileSize": 35890,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
-            "TvSeries"
+            "Movie",
+            "TvSeries",
+            "Anime"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+        "iconUrl": "https://sezonlukdizi.cc/i/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9d037c5fc76eb2de3b094d341f5bc765592bb7563f27fe611853386f0adcacb1"
+        "fileHash": "sha256-9ef9ec8448fd3687280639b6fd34418d90eac52b6eb2449c018ce28534b74039"
     },
     {
         "iconUrl": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png",
