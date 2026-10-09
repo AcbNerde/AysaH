@@ -1,5 +1,24 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AniArsiv.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "AniArsiv",
+        "internalName": "AniArsiv",
+        "authors": [
+            "ulgenzade"
+        ],
+        "description": "AniAr\u015fiv \u2014 T\u00fcrkiye'nin En B\u00fcy\u00fck Anime \u0130zleme Ar\u015fivi (6.000+ Anime, 70.000+ B\u00f6l\u00fcm, Ultra HD)",
+        "fileSize": 22171,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Anime"
+        ],
+        "apiVersion": 1,
+        "fileHash": "sha256-22e7d36726011c092a1c521b20ae91c03f4d5d6d492c9fe4e6f767eea0096986"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeAV.cs3",
         "status": 1,
         "version": 1,
@@ -35,7 +54,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "iconUrl": "https://anm.cx/favicon.ico",
+        "iconUrl": "https://pbs.twimg.com/profile_images/1510442441589075970/Td-tOVU4_400x400.jpg",
         "apiVersion": 1,
         "fileHash": "sha256-6cc5e82091fe24c03a5f2d2d7fcf04e050c86d2352f31e8f767a7704992abff7"
     },
@@ -69,7 +88,7 @@
             "Blockades"
         ],
         "description": "\u00danete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido m\u00e1s popular de la animaci\u00f3n japonesa.",
-        "fileSize": 44181,
+        "fileSize": 57888,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "mx",
         "tvTypes": [
@@ -77,7 +96,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-31360c8e880777272b400e4670f9ac7c14d4f427227042e61acf1bacff1db479"
+        "fileHash": "sha256-0c68aeda9fb9adebb6b7e5b2cd534c4cfdc77a79a58c9bb36cc0a6478d75a0a0"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Anizium.cs3",
@@ -161,6 +180,26 @@
         "fileHash": "sha256-f6e7a5e6549e2bff8f2e1456a2f8d697fc8a35bf97361fcd931b95ce686f3708"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Atv.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Atv",
+        "internalName": "Atv",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "ATV'nin sevilen dizileri (A\u015fk ve Taht, Alt\u0131 \u00dcst\u00fc \u0130stanbul) ve programlar\u0131 (M\u00fcge Anl\u0131, Esra Erol) izleyin.",
+        "fileSize": 45096,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-8550dc3f30d2c089e252640207a6944b48cee57ff9471c7ce25e8338323a57b0"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/BelgeselX.cs3",
         "status": 1,
         "version": 1,
@@ -180,17 +219,76 @@
         "apiVersion": 1,
         "fileHash": "sha256-5269f4d222c237211b3ac6c56db9e4d9f9b0785aabe5d4e5ef51f0e66671ecb8"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BeyazElma.cs3",
+    "status": 3,
+    "version": 12,
+    "name": "BeyazElma",
+    "internalName": "BeyazElma",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 211483,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-eeb5407ec06ee18f92744bf28bb53978669304da70e8a5af1120b25119f27db3"
+  },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BirdirbirIPTV.cs3",
+    "status": 3,
+    "version": 28,
+    "name": "BirdirbirIPTV",
+    "internalName": "BirdirbirIPTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "v10 IPTV: yerel ve dünya canlı kanalları, seçili 17 listeyle güncellenmiş yayın alternatifleri.",
+    "fileSize": 197921,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-47301fc094a6fed4d37b38f38e680f09d0d043d7de90bfca1f9acba6f4767dae"
+  },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/CanliTV.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "CanliTV",
+        "internalName": "CanliTV",
+        "authors": [
+            "mebularts"
+        ],
+        "description": "Canl\u0131 TV",
+        "fileSize": 18385,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-f2d1ef3d6bb1a8c76c520a30d0cdec1687f98f9190ef45168122156484ca99fc"
+    },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DDizi.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "DDizi",
         "internalName": "DDizi",
         "authors": [
             "Blockades"
         ],
         "description": "DDizi.im i\u00e7in Cloudstream eklentisi.",
-        "fileSize": 20053,
+        "fileSize": 20049,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -198,7 +296,7 @@
         ],
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-3a243576810ad1b7048e6556c269eea23a505db2e2476b754817015f6074d13f"
+        "fileHash": "sha256-454e8fd18fdb297eabd971bfff3836ef9789bb3858da942c4cc3fafe927986e5"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziBal.cs3",
@@ -281,9 +379,30 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9XtnuaqCr0OCszI6jobXYusX45xclhR9YrLMZCiVBkHTW5jVBPimy84&s=10",
         "apiVersion": 1,
         "fileHash": "sha256-e4943e381d3d4f7b5d8e90e9cadbdc73d33122450851aab394c3703636faa82b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "DiziLife",
+        "internalName": "DiziLife",
+        "authors": [
+            "blackhope01"
+        ],
+        "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
+        "fileSize": 17045,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d572b0a549d0a92051193d815b9630e6e9d26b40b384d5d10915b44db67a2bb4"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
@@ -308,14 +427,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "DiziMom",
         "internalName": "DiziMom",
         "authors": [
             "Blockades"
         ],
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle",
-        "fileSize": 30636,
+        "fileSize": 30637,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -324,61 +443,61 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-ef954c9153854c9ec523d2391c13039fea1d6b75bb60f8383c05742c13eb543d"
+        "fileHash": "sha256-c435cf48e52c368499f53c422fa986a6329a5c3186f55c56385d90a8e776dcb4"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 28492,
+        "fileSize": 28487,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
+        "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-521c35f8b5fd61b23a56e567ea7d465ac54178e8e0c574201aa9d5bffd10933f"
+        "fileHash": "sha256-09ef72da1d5addfd8c701eb27b1ea63c79e9027d525aa50bf2f4d0e875d343d3"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "DiziPal2",
         "internalName": "DiziPal2",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 27692,
+        "fileSize": 27689,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
+        "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-2079f1ae9c0c084ce05c30a558ff11553d15e706da422844d7bdca26ee6c945a"
+        "fileHash": "sha256-3814645b3727b3e00b3f4140292450e5ad6d94a00f67ea1c10b0e33ed9676e87"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 3,
+        "version": 5,
         "name": "DiziPalOrijinal",
         "internalName": "DiziPalOrijinal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48294,
+        "fileSize": 48293,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -387,7 +506,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-62c3f380c516b727505612d032c2a5da2adc2e8c2123c3f66044c39d9fca4f54"
+        "fileHash": "sha256-e088c831778c95f4e45f39fe33c9095efb913f36d84c902899ac2822e88e4f8c"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -470,6 +589,26 @@
         "apiVersion": 1,
         "fileHash": "sha256-4f3104db95d99e96897a14429f8d5502524fc6f0ec3b7e8693cecf494a758342"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DomatesTV.cs3",
+    "status": 3,
+    "version": 6,
+    "name": "DomatesTV",
+    "internalName": "DomatesTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Domates TV dinamik spor kanalları",
+    "fileSize": 169751,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-412a3adf5a0fd677cfe4a0a0140202fa0a5d11a37f061ebf09b4d897552d0e5e"
+  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DramaDizilerim.cs3",
         "status": 1,
@@ -491,189 +630,25 @@
         "fileHash": "sha256-d39cecd38cd1ee6a692392177e9881c89024e46b83a442c45ce2f6008a800c91"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmEkseni.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmEkseni.cs3",
         "status": 1,
         "version": 1,
         "name": "FilmEkseni",
         "internalName": "FilmEkseni",
         "authors": [
-            "UmayTrade"
-        ],
-        "description": "Film Ekseni Vizyonda ki, en g\u00fcncel ve en yeni filmleri full hd kalitesinde t\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle 1080p olarak izleyebilece\u011finiz adresiniz.",
-        "fileSize": 39401,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-d46991e8fdca341fdf4db6dfe1e78c7dc6c7d09be758ca8e8eaa99acf0882187"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmHane.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "FilmHane",
-        "internalName": "FilmHane",
-        "authors": [
             "blackhope01"
         ],
-        "description": "Trend olan t\u00fcm yabanc\u0131 yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde T\u00fcrk\u00e7e dublaj olarak izleyebilirsiniz.",
-        "fileSize": 22384,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Film Ekseni Vizyonda ki, en g\u00fcncel ve en yeni filmleri full hd kalitesinde t\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle 1080p olarak izleyebilece\u011finiz adresiniz.",
+        "fileSize": 39464,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmhane.shop&sz=%size%",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qXkHyRVv3yot4iTXvTPBM8p0jLg69ko1Z8Z8UBmStg&s",
         "apiVersion": 1,
-        "fileHash": "sha256-0ea3c242e98a6a9fe9cd7f543438c8b1732927cca10e1d48c5c52b03b739dbd8"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmizleCh.cs3",
-        "status": 1,
-        "version": 8,
-        "name": "FilmizleCh",
-        "internalName": "FilmizleCh",
-        "authors": [
-            "nikyokki"
-        ],
-        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabanc\u0131 filmlerle T\u00fcrk\u00e7e dublaj veya Altyaz\u0131 olarak kesintisiz film izlemenin tad\u0131n\u0131 \u00e7\u0131kar\u0131n.",
-        "fileSize": 23777,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-0a453bdd54238de61490a0707fc6411159671fb1f5987be52a0702031d8a4567"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmIzyon.cs3",
-        "status": 1,
-        "version": 5,
-        "name": "FilmIzyon",
-        "internalName": "FilmIzyon",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "Yerli ve yabanc\u0131 \u00f6d\u00fcll\u00fc t\u00fcm filmleri T\u00fcrk\u00e7e Dublaj veya Orjinal dilde izleyebilece\u011finiz T\u00fcrkiye'nin en kaliteli film izleme platformuna ho\u015fgeldiniz.",
-        "fileSize": 12597,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
-        "apiVersion": 1,
-        "fileHash": "sha256-aeb2e0597193d11e79837419c03cf362417d4ad01ce5cf9c1b048fce6a7c0b5f"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-5906e73fd4430992b03dee6fb74dcced65debea3ae868174fbf0468769d0f1b6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
-        "fileSize": 28863,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "PARS"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "FilmMakinesi",
-        "description": "FilmMakinesi ",
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmMakinesi.cs3",
-        "name": "FilmMakinesi"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmModu.cs3",
-        "status": 1,
-        "version": 17,
-        "name": "FilmModu",
-        "internalName": "FilmModu",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
-        "fileSize": 19128,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-b76301c5590e41f7f7ef49364eca7b9e1c9c64577abd1f0a71fd402199683db8"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/FilmModu2.cs3",
-        "status": 1,
-        "version": 15,
-        "name": "FilmModu2",
-        "internalName": "FilmModu2",
-        "authors": [
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
-        "fileSize": 23225,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-2de45b36050cf50b7ebfcb0f9eb264e2099ede6d16b54a69cb60ffb03b233e45"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizle.now&sz=%size%",
-        "fileHash": "sha256-07d1ef9cd5ea91be139fadafdb98713a375b772e2377b8d29a6b8945bf1d95a6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
-        "fileSize": 26873,
-        "status": 3,
-        "language": "tr",
-        "authors": [
-            "PARS"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "FullHDFilmizle",
-        "description": "FullHDFilmizle provider",
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizle.cs3",
-        "name": "FullHDFilmizle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now&sz=%size%",
-        "fileHash": "sha256-0b68fa935f0137f432270b98fd705e39cb78f49967fc4b9353ce7e188041ed23",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
-        "fileSize": 39637,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "PARS"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "FullHDFilmizlesene",
-        "description": "FullHDFilmizlesene - SCX -> RapidVid -> HLS",
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizlesene.cs3",
-        "name": "FullHDFilmizlesene"
+        "fileHash": "sha256-e74883e72d720e557fc46823855f73d13b59e5e5b0edd59cf1f810dafaf869f7"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
@@ -718,27 +693,6 @@
         "fileHash": "sha256-1abc8454df94e8d2b1913d38eba5ab153cc4937069324f1ff65664a1333b3fe6"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmizle.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "HDFilmizle",
-        "internalName": "HDFilmizle",
-        "authors": [
-            "NeO"
-        ],
-        "description": "HDFilmizle - HD Film ve yabanc\u0131 dizi izleme.",
-        "fileSize": 64089,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-52dec9ce350e63de68b54c39dbef308618cf6ab545b61c37d89ce92b802893f2"
-    },
-    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/InatBox.cs3",
         "status": 1,
         "version": 1,
@@ -748,7 +702,7 @@
             "Blockades"
         ],
         "description": "\u0130natBox - Film, dizi ve canl\u0131 yay\u0131n kanallar\u0131",
-        "fileSize": 43062,
+        "fileSize": 43058,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -758,51 +712,31 @@
         ],
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3bce75c03d5d127842f0a8e62a7a0f6bce1922a3e7088eb6fd8bd786a0d6c651"
+        "fileHash": "sha256-227eb948027274b131500ca1356577c1bad36e2d5ad47017419cfaa6174b03b6"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/JetFilmizle.cs3",
-        "status": 1,
-        "version": 32,
-        "name": "JetFilmizle",
-        "internalName": "JetFilmizle",
-        "authors": [
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
-        "fileSize": 18656,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-046d6cec91b7d37e1b6449ead2d5519c3f999b6a887491310d57b1cae94c6a30"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/KanalD.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/KanalD.cs3",
         "status": 1,
         "version": 1,
         "name": "KanalD",
         "internalName": "KanalD",
         "authors": [
-            "kerimmkirac"
+            "Blockades"
         ],
-        "description": "TV8'in e\u011flenceli programlar\u0131, yar\u0131\u015fmalar\u0131 ve dizileri ile keyifle TV izle. Survivor, O Ses T\u00fcrkiye, Jet Sosyete, K\u0131z\u0131m, Yemekteyiz ve Masterchef i\u00e7in TV8 izle.",
-        "fileSize": 19058,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Kanal D icin haz\u0131rlanan eklentide diziler programlar ve Mazi Diziler mevcut",
+        "fileSize": 19580,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
+            "Movie",
             "TvSeries"
         ],
         "iconUrl": "https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2be015530b0b9d962f7610d9516e3fa9ef944f3418c51f332849a31732941957"
+        "fileHash": "sha256-5fa65c84153fa9e9a0669b527f0de652f1eac8f4308dcb5a60c89bb58fc947c0"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/KultFilmler.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/KultFilmler.cs3",
         "status": 1,
         "version": 16,
         "name": "KultFilmler",
@@ -811,8 +745,8 @@
             "UmayTrade"
         ],
         "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "fileSize": 27169,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 27165,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -820,131 +754,107 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-f21f4affd3196d23416723520a9f29f60112b46ae29b870e7e37c6b41cbcff7e"
+        "fileHash": "sha256-105acd11459dd37b621e266206b4dad3bec41f3d9d2aa5ee5d196113ddd3325e"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/LeoTV.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "LeoTV",
+    "internalName": "LeoTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü).",
+    "fileSize": 156000,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-d89b1e8a559315020123433c59ace7668571f75e035f03ded047d8d03c409b96"
+  },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/NetVGold.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "NetVGold",
+    "internalName": "NetVGold",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
+    "fileSize": 173304,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-27f39deadaf5a2295341f68a97f3f47ad8c01e48a3053cb16bf058cc50ce5a12"
+  },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/LoveFilm.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/OpenAnimeProvider.cs3",
         "status": 1,
-        "version": 1,
-        "name": "LoveFilm",
-        "internalName": "LoveFilm",
+        "version": 3,
+        "name": "OpenAnimeProvider",
+        "internalName": "OpenAnimeProvider",
         "authors": [
-            "blackhope01"
-        ],
-        "description": "Full HD Film izle - T\u00fcrk\u00e7e Dublaj Altyaz\u0131l\u0131 Film izleme sitesi olarak sizlere yabanc\u0131 yerli filmleri y\u00fcksek kalitede sunmakday\u0131z. Kaliteli film izle sitesi",
-        "fileSize": 26798,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-430ca63952c064dcc00b046ce0c054b8fdbd9c5cbbfc7511f74c08f42bf286e5"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/OpenAnime.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "OpenAnime",
-        "internalName": "OpenAnime",
-        "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
         "description": "OpenAnime - A\u00e7\u0131k Kaynak Anime Platformu",
-        "fileSize": 42887,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 37627,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-a940d74604df16d51ea5beab0518965f3becf5906b193f873ba9e8c12c2ac728"
+        "fileHash": "sha256-540b684f4d7358a8b1122cb1111b1bf1648306bed12a758f2ab590a2647437cd"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/RareFilmm.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Puhutv.cs3",
         "status": 1,
-        "version": 3,
-        "name": "RareFilmm",
-        "internalName": "RareFilmm",
+        "version": 14,
+        "name": "Puhutv",
+        "internalName": "Puhutv",
         "authors": [
-            "UmayTrade"
+            "keyiflerolsun"
         ],
-        "description": "The Cave of Forgotten Films",
-        "fileSize": 16498,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "en",
+        "description": "PuhuTV - Yerli Dizi ve Film \u0130zleme Platformu",
+        "fileSize": 35691,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
         "tvTypes": [
+            "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=puhutv.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-acdbd94cd691c63b7938de6ebddbd76d2085eeb1803640868435545fa138aa1f"
+        "fileHash": "sha256-15f19f466111023e8db16f522ae11d5a39dd47fb4a854c3d55688fca1497a4d9"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/rectv-bc.cs3",
-        "status": 1,
-        "version": 4,
-        "name": "rectv-bc",
-        "internalName": "rectv-bc",
-        "authors": [
-            "Dr.Octagon"
-        ],
-        "description": "RecTV BronzeCloud Edition - Spor ve Canl\u0131 TV",
-        "fileSize": 43244,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "Live",
-            "TvSeries"
-        ],
-        "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-0b8a01ca6dc41242cbf33e96788ab6faba4089ae204940038af92bd28530d7f9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SelcukFlix.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/RetroD.cs3",
         "status": 1,
         "version": 1,
-        "name": "SelcukFlix",
-        "internalName": "SelcukFlix",
+        "name": "RetroD",
+        "internalName": "RetroD",
         "authors": [
-            "UmayTrade"
+            "Blockades"
         ],
-        "description": "Selcukflix'te her t\u00fcrden en yeni ve en pop\u00fcler dizi ve filmleri izlemenin keyfini \u00e7\u0131kar\u0131n. Aksiyondan romanti\u011fe, bilim kurgudan dramaya, geni\u015f k\u00fct\u00fcphanemizde herkes i\u00e7in bir \u015fey var",
-        "fileSize": 36355,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "description": "Kanal D icin haz\u0131rlanan eklentide diziler programlar ve Mazi Diziler mevcut",
+        "fileSize": 18857,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+        "iconUrl": "https://i1.sndcdn.com/avatars-000662168717-4uz14u-t1080x1080.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-83a23cd63c4631293ccebf3bac3c5b7f344ca2808c241e3005cce58f7606ff05"
-    },
-    {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd\u0026sz=%size%",
-        "fileHash":  "sha256-441bb4a936e91970d3433c3eae24ea1fa1d9085c78d0d01afce2f206d5b4f157",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  56860,
-        "status":  3,
-        "language":  "tr",
-        "authors":  [
-                        "manitux"
-                    ],
-        "tvTypes":  [
-                        "Movie",
-                        "TvSeries"
-                    ],
-        "version":  4,
-        "internalName":  "SetFilm",
-        "description":  "Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
-        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SetFilm.cs3",
-        "name":  "SetFilm"
+        "fileHash": "sha256-5abbd8fbd8276555d172758fe3bef576db4da7aded891f0f36605c6b314c7b91"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SezonlukDizi.cs3",
@@ -969,27 +879,28 @@
         "fileHash": "sha256-9ef9ec8448fd3687280639b6fd34418d90eac52b6eb2449c018ce28534b74039"
     },
     {
-        "iconUrl": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png",
-        "fileHash": "sha256-d7ed8b5fa792fc3f9a9c2c1a609cd817e42a3370b1c03a01ce9a65face2d3e59",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
-        "fileSize": 28195,
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Showtv.cs3",
         "status": 1,
-        "language": "tr",
-        "authors": [
-            "PARS"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
         "version": 1,
-        "internalName": "ShowTV",
-        "description": "Show TV dizilerini ve b\u00f6l\u00fcmlerini do\u011frudan ShowTV \u00fczerinden otomatik listeler.",
-        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/ShowTV.cs3",
-        "name": "ShowTV"
+        "name": "Showtv",
+        "internalName": "Showtv",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "Show TV canl\u0131 yay\u0131n\u0131, dizileri, e\u011flence programlar\u0131, oyuncular ve daha fazlas\u0131 sayfalar\u0131m\u0131zda. Hayat T\u00fcrkiye'nin kanal\u0131 Show'la g\u00fczel! \u015eimdi Show TV canl\u0131 yay\u0131n izle.",
+        "fileSize": 27791,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-72fde4fcf5513139b113d0d5c40b48b9133414f6a4e03c1211bb7971f97c5bd0"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Sinefy.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Sinefy.cs3",
         "status": 1,
         "version": 14,
         "name": "Sinefy",
@@ -998,8 +909,8 @@
             "kraptor"
         ],
         "description": "Yabanc\u0131 film izle olarak vizyondaki en yeni yabanc\u0131 filmleri t\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 olarak en h\u0131zl\u0131 \u015fekilde full hd olarak sizlere sunuyoruz.",
-        "fileSize": 21437,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 21434,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -1007,30 +918,10 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-af18ed54db98ab304003e1ff01667da8a34d680d68fce7668d0022df57336a7d"
+        "fileHash": "sha256-cc072244f9ba1c0718f26e3ee68d3cf1704ca4685ccac42c9efc617c0492159f"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SinemaCX.cs3",
-        "status": 1,
-        "version": 25,
-        "name": "SinemaCX",
-        "internalName": "SinemaCX",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
-        "fileSize": 16213,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-83c3d2df4f951e9c5957dc99ca986cadb886bdf383dcc6306c63728b2783ea62"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/SineWix.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SineWix.cs3",
         "status": 1,
         "version": 1,
         "name": "SineWix",
@@ -1039,8 +930,8 @@
             "UmayTrade"
         ],
         "description": "SineWix | Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
-        "fileSize": 29664,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 29570,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -1049,51 +940,50 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-74e83d5d1f8a142eee71e5b555bc66672c1bfc30db65eb388b2bdd0fe322d59a"
+        "fileHash": "sha256-9b4459511efa5d505d7ed933c4ec79c52cd823d0a2d7a8462f773410aac23442"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Sinezy.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Sinezy.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "Sinezy",
         "internalName": "Sinezy",
         "authors": [
             "kraptor"
         ],
         "description": "Yerli ve yabanc\u0131 film izle! T\u00fcrk\u00e7e Dublaj ve Alt Yaz\u0131l\u0131 Se\u00e7enekleriyle full hd film izlemek i\u00e7in En \u00e7ok tercih edilen adres!",
-        "fileSize": 22501,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 22484,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie"
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
         "apiVersion": 1,
-        "fileHash": "sha256-241d29a9b00d53d6e63c89c5c7e591c8019b67bab3e090603520921a5194015e"
+        "fileHash": "sha256-00f764520727f4e2d5b601b5399e3a6abda627f172bfa34873b62ef119ebd17c"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StbTV.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "StbTV",
+    "internalName": "StbTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Stalker Stb Canlı TV ve Spor Kanalları (TV1 & 8kGold Panelleri)",
+    "fileSize": 172019,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/seyirturk.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-bcb8a968a6a9a58da64f21c5378b021d8278f3b3482db318271cbd4167787b52"
+  },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Startv.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "Startv",
-        "internalName": "Startv",
-        "authors": [
-            "kerimmkirac"
-        ],
-        "description": "Star TV'nin sevilen dizileri (Tuzlu Kahve, Sevdi\u011fim Sensin, Yal\u0131 \u00c7apk\u0131n\u0131) ve programlar\u0131 (Didem Arslan, Song\u00fcl ve U\u011fur) izleyin.",
-        "fileSize": 29869,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries",
-            "Live"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-91c729e485c4686fb1dc102034a6ffa32468cec730e0bef6afc1b5f0b67df254"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Streamed.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Streamed.cs3",
         "status": 1,
         "version": 28,
         "name": "Streamed",
@@ -1102,138 +992,38 @@
             "kraptor"
         ],
         "description": "Streamed ile Canl\u0131 Spor Yay\u0131nlar\u0131n\u0131 \u0130zleyebilirsiniz.",
-        "fileSize": 33362,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 33334,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "en",
         "tvTypes": [
             "Live"
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-eb006faf610ea93f4779417dc372b85cdbde37aefd0823f38a94337536f5c11f"
+        "fileHash": "sha256-a7d82f03e05e8081ef1a2fa9ade23863a2c45a8a8abaea2ef31655de74829b3c"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TRGoals.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "TRGoals",
+    "internalName": "TRGoals",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
+    "fileSize": 225068,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-612a417f58e7e8b86ba9b212b93d696f08d60350d873519bdcd1a45d2e1c0914"
+  },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Supercartoons.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "Supercartoons",
-        "internalName": "Supercartoons",
-        "authors": [
-            "ByAyzen"
-        ],
-        "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
-        "fileSize": 11416,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "en",
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "iconUrl": "https://i.imgur.com/LBfX2k3.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-70b55d491bf7b012a9f0ba46161a3696314c52126a792b191c35eee7e5c1848b"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TLC.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "TLC",
-        "internalName": "TLC",
-        "authors": [
-            "nikyokki"
-        ],
-        "description": "TLC TV dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. TLC TV dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
-        "fileSize": 14419,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-55658ba3689f14a3612b207d095c6c1442e76bf9265695c80f935db302c60f00"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TRanimaci.cs3",
-        "status": 1,
-        "version": 19,
-        "name": "TRanimaci",
-        "internalName": "TRanimaci",
-        "authors": [
-            "keyiflerolsun",
-            "patr0n"
-        ],
-        "description": "TRanimeci - T\u00fcrkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 16820,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Anime"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-595b3af5d2792552e270e8b454a3af172c99bcca9cc7662deb6f0fd32b241dca"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TrAnimeIzle.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "TrAnimeIzle",
-        "internalName": "TrAnimeIzle",
-        "authors": [
-            "UmayTrade"
-        ],
-        "description": "TrAnime\u0130zle - T\u00fcrk\u00e7e Anime \u0130zleme Platformu",
-        "fileSize": 33579,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Anime"
-        ],
-        "apiVersion": 1,
-        "fileHash": "sha256-b9ea33587868a3fe1d4762d1c46c8b8921bd2f9d0a4974c59a3bb3a30d59d9cf"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TRasyalog.cs3",
-        "status": 1,
-        "version": 65,
-        "name": "TRasyalog",
-        "internalName": "TRasyalog",
-        "authors": [
-            "UmayTrade"
-        ],
-        "description": "TRasyalog izleme sitesi.",
-        "fileSize": 27275,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-34584216c2de5ffa511ed577a38f34bf11fe736de39ef03c7b9c5d13e5c5571d"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TurkAnime.cs3",
-        "status": 1,
-        "version": 14,
-        "name": "TurkAnime",
-        "internalName": "TurkAnime",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "Tranimeizle - T\u00fcrk\u00e7e altyaz\u0131l\u0131 anime izleme sitesi.",
-        "fileSize": 23894,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Anime"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-39430b35b20ae39aaccda39a06271aae8574a31ef22276f0a0a0f3cc139db047"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Tv8.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Tv8.cs3",
         "status": 1,
         "version": 1,
         "name": "Tv8",
@@ -1243,7 +1033,7 @@
         ],
         "description": "TV8'in e\u011flenceli programlar\u0131, yar\u0131\u015fmalar\u0131 ve dizileri ile keyifle TV izle. Survivor, O Ses T\u00fcrkiye, Jet Sosyete, K\u0131z\u0131m, Yemekteyiz ve Masterchef i\u00e7in TV8 izle.",
         "fileSize": 19673,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
@@ -1252,28 +1042,48 @@
         "apiVersion": 1,
         "fileHash": "sha256-8ed089db0da2e8fbba15d46d4d01b4c8d69128df5f900e6402ef69824a5ebc8c"
     },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "VionTV",
+    "internalName": "VionTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "VİONTV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
+    "fileSize": 115738,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VionTV.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-6ec711b9e17087397eb5202451ff6f371f8dac8379f9953a2589ec257d031b3d"
+  },
+      {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VivoXSpor.cs3",
+    "status": 3,
+    "version": 4,
+    "name": "VivoXSpor",
+    "internalName": "VivoXSpor",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "VivoX uyumlu dinamik spor listesi",
+    "fileSize": 119179,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ee6d34c3d02eaab71b5b86454482348bc4c926d6b9662dfae01973aa6ed45b17"
+  },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/TvDiziler.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "TvDiziler",
-        "internalName": "TvDiziler",
-        "authors": [
-            "NeO"
-        ],
-        "description": "TvDiziler - Yerli diziler, T\u00fcrk\u00e7e dublaj/altyaz\u0131l\u0131 b\u00f6l\u00fcmler.",
-        "fileSize": 27193,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-605c67e1ed5d4f2ab3fc49ae07d51d547e294c328b179effb360e72f83a8f330"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Watch2Movies.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Watch2Movies.cs3",
         "status": 1,
         "version": 6,
         "name": "Watch2Movies",
@@ -1283,7 +1093,7 @@
         ],
         "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
         "fileSize": 24801,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "en",
         "tvTypes": [
             "Movie",
@@ -1294,7 +1104,7 @@
         "fileHash": "sha256-3e84867575244008bfec2406f84949944509ea2383bd1b0f60f3078554e4339e"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/WebdramaTurkey2.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/WebdramaTurkey2.cs3",
         "status": 1,
         "version": 1,
         "name": "WebdramaTurkey2",
@@ -1304,7 +1114,7 @@
         ],
         "description": "WebdramaTurkey2 \u0130\u00e7erikleri",
         "fileSize": 48209,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "AsianDrama",
@@ -1317,7 +1127,7 @@
         "fileHash": "sha256-2316331863403ad2cc6a66ff71a68191f38dd98c6680acc1d2f13e00c07da674"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Webteizle.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Webteizle.cs3",
         "status": 1,
         "version": 2,
         "name": "Webteizle",
@@ -1327,7 +1137,7 @@
         ],
         "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
         "fileSize": 28818,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -1338,27 +1148,7 @@
         "fileHash": "sha256-85049256a470e8f0dd0ef6c4d02b79a1c70d1ccbb9b227a2aa6df142c9c32ca9"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/XPrime.cs3",
-        "status": 1,
-        "version": 7,
-        "name": "XPrime",
-        "internalName": "XPrime",
-        "authors": [
-            "nikyokki"
-        ],
-        "description": "XPrime.Tv",
-        "fileSize": 32514,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-d8a9d6614bf594bdf83e7925cdcb826c3b556e46b870b29a8628e56e31a32c9a"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/YabanciDizi.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/YabanciDizi.cs3",
         "status": 1,
         "version": 9,
         "name": "YabanciDizi",
@@ -1367,18 +1157,18 @@
             "nikyokki"
         ],
         "description": "Son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri yabancidizi' de izle. En yeni yabanc\u0131 film ve diziler, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde hd izle.",
-        "fileSize": 47838,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 55293,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1f1d52e4dd7151537a519571a15ac6603fa84a00aa01b7465fd9f80a2dc578a8"
+        "fileHash": "sha256-8cd54332967f2680987dceb9d4d09812fb9b07799bae6da183b9439aebd9d367"
     },
     {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/YesilCamTv.cs3",
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/YesilCamTv.cs3",
         "status": 1,
         "version": 11,
         "name": "YesilCamTv",
@@ -1388,154 +1178,14 @@
             "kraptor"
         ],
         "description": "Ye\u015fil\u00e7am klasik T\u00fcrk sinemas\u0131 filmleri ve ar\u015fiv",
-        "fileSize": 28688,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+        "fileSize": 28695,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Movie"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=yesilcamtv.com.tr",
         "apiVersion": 1,
-        "fileHash": "sha256-a77698448ead37254ef03fbcac0006c945b6a5296a806352848e4d422985660f"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/YoTurkish.cs3",
-        "status": 1,
-        "version": 4,
-        "name": "YoTurkish",
-        "internalName": "YoTurkish",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
-        "fileSize": 20039,
-        "repositoryUrl": "https://github.com/UmayTrade/MyTV",
-        "language": "en",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
-        "apiVersion": 1,
-        "fileHash": "sha256-8b613d44af2acd30aca70ea98bb454556bfba191bf2557550ee332518dd3f00a"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/BeyazElma.cs3",
-        "status": 3,
-        "version": 10,
-        "name": "BeyazElma",
-        "internalName": "BeyazElma",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "\ud83d\udfe2 Kaynak: BeyazElma \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 129015,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-33391cefef97a0b737d6cead20cd31376498caff0862b60e26d11a2b36abbf01"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/InatTV.cs3",
-        "status": 3,
-        "version": 10,
-        "name": "InatTV",
-        "internalName": "InatTV",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "\ud83d\udfe2 Kaynak: \u0130nat TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 104764,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-797455d8c80da6f8324532cdc90e81bb07a503bdbefc3049fde07458d4ac3fe1"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/MahsunSports.cs3",
-        "status": 3,
-        "version": 9,
-        "name": "MahsunSports",
-        "internalName": "MahsunSports",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "\ud83d\udfe2 Kaynak: MahsunSports \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 106696,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-93a290f4885802aba6a886643a08e2b4866edaac4cf37ee41d4ba6d8caf77695"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/NetVGold.cs3",
-        "status": 3,
-        "version": 3,
-        "name": "NetVGold",
-        "internalName": "NetVGold",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "NETV Gold uygulamas\u0131n\u0131n do\u011frulanm\u0131\u015f spor kanallar\u0131",
-        "fileSize": 141284,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-94777de5ee07a37d711031ddf01dcb38e96ce795bfd4e0ee3a2adebf4b38b2a3"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/PapazSports.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "PapazSports",
-        "internalName": "PapazSports",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "PapazSports canlı kanal ve ma\u00e7 listesi, artan alan ad\u0131 ke\u015ffi ve g\u00fcncelleme ekran\u0131.",
-        "fileSize": 139867,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-62cca511c8f86bc9e600f1aa1f8c84b7b1f7985450609ca973f698056bbef88d"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/TRGoals.cs3",
-        "status": 3,
-        "version": 2,
-        "name": "TRGoals",
-        "internalName": "TRGoals",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "TRGoals dinamik spor kanallar\u0131 ve alan g\u00fcncelleme ekran\u0131",
-        "fileSize": 141556,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-d963e1c6d0659bb8c0e967e1cc99d1408b97fc7b38b9e5e3c2f7ca93e74712d9"
+        "fileHash": "sha256-958e0df1412a56949b0bd681fe123fa0dc7d62c37f0642d476fafbe1dd95b843"
     }
 ]
