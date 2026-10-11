@@ -219,45 +219,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-5269f4d222c237211b3ac6c56db9e4d9f9b0785aabe5d4e5ef51f0e66671ecb8"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BeyazElma.cs3",
-    "status": 3,
-    "version": 12,
-    "name": "BeyazElma",
-    "internalName": "BeyazElma",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 211483,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-eeb5407ec06ee18f92744bf28bb53978669304da70e8a5af1120b25119f27db3"
-  },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BirdirbirIPTV.cs3",
-    "status": 3,
-    "version": 28,
-    "name": "BirdirbirIPTV",
-    "internalName": "BirdirbirIPTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "v10 IPTV: yerel ve dünya canlı kanalları, seçili 17 listeyle güncellenmiş yayın alternatifleri.",
-    "fileSize": 197921,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "apiVersion": 1,
-    "fileHash": "sha256-47301fc094a6fed4d37b38f38e680f09d0d043d7de90bfca1f9acba6f4767dae"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/CanliTV.cs3",
         "status": 1,
@@ -385,12 +346,12 @@
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
-        "status": 1,
+        "status": 0,
         "version": 3,
         "name": "DiziLife",
         "internalName": "DiziLife",
         "authors": [
-            "blackhope01"
+            "Blockades"
         ],
         "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
         "fileSize": 17045,
@@ -427,14 +388,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "DiziMom",
         "internalName": "DiziMom",
         "authors": [
             "Blockades"
         ],
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle",
-        "fileSize": 30637,
+        "fileSize": 34114,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -443,19 +404,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c435cf48e52c368499f53c422fa986a6329a5c3186f55c56385d90a8e776dcb4"
+        "fileHash": "sha256-02441c301bd08a1bf6e1026aab9cb420c6f3a2a1ff19ea61279c68c55fc29aea"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 28487,
+        "fileSize": 28490,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -464,7 +425,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-09ef72da1d5addfd8c701eb27b1ea63c79e9027d525aa50bf2f4d0e875d343d3"
+        "fileHash": "sha256-9546dcffea61bbc3ff70fb07a9479031ccc5a2b3281d8216f5c2459418f7671f"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
@@ -490,14 +451,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DiziPalOrijinal",
         "internalName": "DiziPalOrijinal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48293,
+        "fileSize": 48295,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -506,7 +467,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-e088c831778c95f4e45f39fe33c9095efb913f36d84c902899ac2822e88e4f8c"
+        "fileHash": "sha256-b50e324a3bc1376ae1ff0893a1fa015e4d2a1585860cff10544cc985db5772dd"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -589,26 +550,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-4f3104db95d99e96897a14429f8d5502524fc6f0ec3b7e8693cecf494a758342"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DomatesTV.cs3",
-    "status": 3,
-    "version": 6,
-    "name": "DomatesTV",
-    "internalName": "DomatesTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Domates TV dinamik spor kanalları",
-    "fileSize": 169751,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
-    "apiVersion": 1,
-    "fileHash": "sha256-412a3adf5a0fd677cfe4a0a0140202fa0a5d11a37f061ebf09b4d897552d0e5e"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DramaDizilerim.cs3",
         "status": 1,
@@ -649,6 +590,66 @@
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qXkHyRVv3yot4iTXvTPBM8p0jLg69ko1Z8Z8UBmStg&s",
         "apiVersion": 1,
         "fileHash": "sha256-e74883e72d720e557fc46823855f73d13b59e5e5b0edd59cf1f810dafaf869f7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmIzyon.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "FilmIzyon",
+        "internalName": "FilmIzyon",
+        "authors": [
+            "kraptor"
+        ],
+        "description": "Yerli ve yabanc\u0131 \u00f6d\u00fcll\u00fc t\u00fcm filmleri T\u00fcrk\u00e7e Dublaj veya Orjinal dilde izleyebilece\u011finiz T\u00fcrkiye'nin en kaliteli film izleme platformuna ho\u015fgeldiniz.",
+        "fileSize": 22667,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-1e8d41acc6bf92cce715c2c00b9a1310c3060d521dada30c9fb9aa9ec7fd6968"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmModu.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FilmModu",
+        "internalName": "FilmModu",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
+        "fileSize": 19126,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-305ce8ae3371ac8a439e154601d3932d6151db8affa9729ae111a7a92b22d0ab"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmModu2.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FilmModu2",
+        "internalName": "FilmModu2",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
+        "fileSize": 23201,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d7434ae26b28ac056feee6ebe7a7876b8ee64f09d0b866aa8111d2302907e667"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
@@ -756,45 +757,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-105acd11459dd37b621e266206b4dad3bec41f3d9d2aa5ee5d196113ddd3325e"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/LeoTV.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "LeoTV",
-    "internalName": "LeoTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü).",
-    "fileSize": 156000,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "apiVersion": 1,
-    "fileHash": "sha256-d89b1e8a559315020123433c59ace7668571f75e035f03ded047d8d03c409b96"
-  },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/NetVGold.cs3",
-    "status": 3,
-    "version": 3,
-    "name": "NetVGold",
-    "internalName": "NetVGold",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
-    "fileSize": 173304,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-27f39deadaf5a2295341f68a97f3f47ad8c01e48a3053cb16bf058cc50ce5a12"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/OpenAnimeProvider.cs3",
         "status": 1,
@@ -802,7 +764,7 @@
         "name": "OpenAnimeProvider",
         "internalName": "OpenAnimeProvider",
         "authors": [
-            "Blockades"
+            "ulgenzade"
         ],
         "description": "OpenAnime - A\u00e7\u0131k Kaynak Anime Platformu",
         "fileSize": 37627,
@@ -962,26 +924,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-00f764520727f4e2d5b601b5399e3a6abda627f172bfa34873b62ef119ebd17c"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StbTV.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "StbTV",
-    "internalName": "StbTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Stalker Stb Canlı TV ve Spor Kanalları (TV1 & 8kGold Panelleri)",
-    "fileSize": 172019,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/seyirturk.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bcb8a968a6a9a58da64f21c5378b021d8278f3b3482db318271cbd4167787b52"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Streamed.cs3",
         "status": 1,
@@ -1002,26 +944,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-a7d82f03e05e8081ef1a2fa9ade23863a2c45a8a8abaea2ef31655de74829b3c"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TRGoals.cs3",
-    "status": 3,
-    "version": 3,
-    "name": "TRGoals",
-    "internalName": "TRGoals",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
-    "fileSize": 225068,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-612a417f58e7e8b86ba9b212b93d696f08d60350d873519bdcd1a45d2e1c0914"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Tv8.cs3",
         "status": 1,
@@ -1042,46 +964,6 @@
         "apiVersion": 1,
         "fileHash": "sha256-8ed089db0da2e8fbba15d46d4d01b4c8d69128df5f900e6402ef69824a5ebc8c"
     },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "VionTV",
-    "internalName": "VionTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "VİONTV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
-    "fileSize": 115738,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VionTV.webp",
-    "apiVersion": 1,
-    "fileHash": "sha256-6ec711b9e17087397eb5202451ff6f371f8dac8379f9953a2589ec257d031b3d"
-  },
-      {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VivoXSpor.cs3",
-    "status": 3,
-    "version": 4,
-    "name": "VivoXSpor",
-    "internalName": "VivoXSpor",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "VivoX uyumlu dinamik spor listesi",
-    "fileSize": 119179,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-ee6d34c3d02eaab71b5b86454482348bc4c926d6b9662dfae01973aa6ed45b17"
-  },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Watch2Movies.cs3",
         "status": 1,
