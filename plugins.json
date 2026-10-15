@@ -346,15 +346,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
-        "status": 0,
-        "version": 3,
+        "status": 1,
+        "version": 5,
         "name": "DiziLife",
         "internalName": "DiziLife",
         "authors": [
             "Blockades"
         ],
         "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
-        "fileSize": 17045,
+        "fileSize": 17044,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -363,7 +363,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-d572b0a549d0a92051193d815b9630e6e9d26b40b384d5d10915b44db67a2bb4"
+        "fileHash": "sha256-eb3aa90c9732c7112f77aa63d2678ffff3e418664cb6d4a6ebef4c0fff3373d6"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
@@ -409,14 +409,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 28490,
+        "fileSize": 28496,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -425,7 +425,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9546dcffea61bbc3ff70fb07a9479031ccc5a2b3281d8216f5c2459418f7671f"
+        "fileHash": "sha256-c444baeda192846f347ff8c75a1d95ceeaa58241de8e3ef1bfd822f41b7800f4"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
@@ -437,7 +437,7 @@
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 27689,
+        "fileSize": 27692,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -446,7 +446,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-3814645b3727b3e00b3f4140292450e5ad6d94a00f67ea1c10b0e33ed9676e87"
+        "fileHash": "sha256-e00c6b0709a29f0be34363e33d1aa11ce2a452944dc722c312b2cdf476084d06"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
@@ -612,6 +612,26 @@
         "fileHash": "sha256-1e8d41acc6bf92cce715c2c00b9a1310c3060d521dada30c9fb9aa9ec7fd6968"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmMakinesi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FilmMakinesi",
+        "internalName": "FilmMakinesi",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
+        "fileSize": 49257,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-0e8d765bf4ebffbbea0a16dec0d521f1926173b68695188497ab4246060b9154"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FilmModu.cs3",
         "status": 1,
         "version": 1,
@@ -650,6 +670,26 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-d7434ae26b28ac056feee6ebe7a7876b8ee64f09d0b866aa8111d2302907e667"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/FullHDFilmizlesene.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FullHDFilmizlesene",
+        "internalName": "FullHDFilmizlesene",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "FullHDFilmizlesene, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
+        "fileSize": 47277,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-4f2694e1f671d642249fcb1211b82b852720f654bd968a24a9ebcfdcbace2478"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmCehennemi.cs3",
@@ -819,6 +859,27 @@
         "fileHash": "sha256-5abbd8fbd8276555d172758fe3bef576db4da7aded891f0f36605c6b314c7b91"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SelcukFlix.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "SelcukFlix",
+        "internalName": "SelcukFlix",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "Selcukflix'te her t\u00fcrden en yeni ve en pop\u00fcler dizi ve filmleri izlemenin keyfini \u00e7\u0131kar\u0131n. Aksiyondan romanti\u011fe, bilim kurgudan dramaya, geni\u015f k\u00fct\u00fcphanemizde herkes i\u00e7in bir \u015fey var",
+        "fileSize": 42256,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d6b1d38477ca10d7df63ac269f6e6acc60d36a35d568daac4008fe4fb9483fc2"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SezonlukDizi.cs3",
         "status": 1,
         "version": 1,
@@ -923,6 +984,27 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
         "apiVersion": 1,
         "fileHash": "sha256-00f764520727f4e2d5b601b5399e3a6abda627f172bfa34873b62ef119ebd17c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Startv.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Startv",
+        "internalName": "Startv",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "description": "Star TV'nin sevilen dizileri (Tuzlu Kahve, Sevdi\u011fim Sensin, Yal\u0131 \u00c7apk\u0131n\u0131) ve programlar\u0131 (Didem Arslan, Song\u00fcl ve U\u011fur) izleyin.",
+        "fileSize": 29194,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-af9e17ff164d843574ae7f2e4eb4ddaf03032a853af1637df3e5c42c1cc5b039"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Streamed.cs3",
