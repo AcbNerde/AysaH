@@ -220,6 +220,27 @@
         "fileHash": "sha256-5269f4d222c237211b3ac6c56db9e4d9f9b0785aabe5d4e5ef51f0e66671ecb8"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/BeyazElma.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "BeyazElma",
+        "internalName": "BeyazElma",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "BeyazElma - Canl\u0131 ma\u00e7 yay\u0131nlar\u0131, spor kanallar\u0131 ve canl\u0131 skorlar\u0131 Cloudstream \u00fczerinden izle.",
+        "fileSize": 16328,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "LiveStream",
+            "Others"
+        ],
+        "iconUrl": "https://beyazelma78.com/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-391e657a68634d4de0b03b9126957b9bd48f8f11bb486e6f4784d7d4d7daaf00"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/CanliTV.cs3",
         "status": 1,
         "version": 4,
@@ -347,14 +368,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DiziLife",
         "internalName": "DiziLife",
         "authors": [
             "Blockades"
         ],
         "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
-        "fileSize": 17044,
+        "fileSize": 17043,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -363,7 +384,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-eb3aa90c9732c7112f77aa63d2678ffff3e418664cb6d4a6ebef4c0fff3373d6"
+        "fileHash": "sha256-26590f95768a1e52189c5d052fc36036c3c01982c44b76aad9c932ecad253c55"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
@@ -388,14 +409,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DiziMom",
         "internalName": "DiziMom",
         "authors": [
             "Blockades"
         ],
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle",
-        "fileSize": 34114,
+        "fileSize": 34117,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -404,7 +425,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-02441c301bd08a1bf6e1026aab9cb420c6f3a2a1ff19ea61279c68c55fc29aea"
+        "fileHash": "sha256-20e36f140569748eb8b62ff57e709c43eddcf5c2378078f3891a3e4c5f0125be"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
@@ -437,7 +458,7 @@
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 27692,
+        "fileSize": 27691,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -446,19 +467,19 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e00c6b0709a29f0be34363e33d1aa11ce2a452944dc722c312b2cdf476084d06"
+        "fileHash": "sha256-414d6d98e350153a1f974d58de9712cf242a529cb3e9c4a5edc98d164194295d"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "DiziPalOrijinal",
         "internalName": "DiziPalOrijinal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48295,
+        "fileSize": 48291,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -467,7 +488,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-b50e324a3bc1376ae1ff0893a1fa015e4d2a1585860cff10544cc985db5772dd"
+        "fileHash": "sha256-31cfe205573dcb1d52fc8795f50f55b35566342b14226895f0bfe7bf543b3409"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -756,6 +777,27 @@
         "fileHash": "sha256-227eb948027274b131500ca1356577c1bad36e2d5ad47017419cfaa6174b03b6"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Inattv.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Inattv",
+        "internalName": "Inattv",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "inatTV - Canl\u0131 ma\u00e7 yay\u0131nlar\u0131, 7/24 TV kanallar\u0131 ve spor kar\u015f\u0131la\u015fmalar\u0131n\u0131 Cloudstream \u00fczerinden izle.",
+        "fileSize": 26152,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "LiveStream",
+            "Others"
+        ],
+        "iconUrl": "https://www.inattvizle494.top/lib/img/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-75b954b2f1575d8dd9c91a7ce224351aaa8720adde5562fc4f11a61eeb41078c"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/KanalD.cs3",
         "status": 1,
         "version": 1,
@@ -944,6 +986,26 @@
         "fileHash": "sha256-cc072244f9ba1c0718f26e3ee68d3cf1704ca4685ccac42c9efc617c0492159f"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SinemaCX.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "SinemaCX",
+        "internalName": "SinemaCX",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
+        "fileSize": 32241,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-fd74b2815e6ff57e5f4378743b6e6e6736b888b83857e5b7ec93f047b6e36064"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SineWix.cs3",
         "status": 1,
         "version": 1,
@@ -1025,6 +1087,27 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
         "apiVersion": 1,
         "fileHash": "sha256-a7d82f03e05e8081ef1a2fa9ade23863a2c45a8a8abaea2ef31655de74829b3c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/TrGoals.cs3",
+        "status": 0,
+        "version": 1,
+        "name": "TrGoals",
+        "internalName": "TrGoals",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "TrGoals - Canl\u0131 ma\u00e7 yay\u0131nlar\u0131, 7/24 TV kanallar\u0131 ve spor kar\u015f\u0131la\u015fmalar\u0131n\u0131 Cloudstream \u00fczerinden izle.",
+        "fileSize": 21507,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "LiveStream",
+            "Others"
+        ],
+        "iconUrl": "https://www.trgoals183.top/lib/img/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e026a3297aa073ce61acaa4dfbf94e4ed988aea8caa23ef667ea7911ded53f8b"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Tv8.cs3",
