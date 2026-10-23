@@ -368,7 +368,7 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "DiziLife",
         "internalName": "DiziLife",
         "authors": [
@@ -384,7 +384,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-26590f95768a1e52189c5d052fc36036c3c01982c44b76aad9c932ecad253c55"
+        "fileHash": "sha256-b41042c9af5b336ccae29a5344dc99808e3b9cf83ec9df4c0a2e33c89027042c"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
@@ -437,7 +437,7 @@
             "Blockades"
         ],
         "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 28496,
+        "fileSize": 28494,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -446,7 +446,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c444baeda192846f347ff8c75a1d95ceeaa58241de8e3ef1bfd822f41b7800f4"
+        "fileHash": "sha256-9460e8fd0652d8a69fc0d32be6845f3dc194963c1ad16b03a9079a683301acdc"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
@@ -458,7 +458,7 @@
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 27691,
+        "fileSize": 27701,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -467,7 +467,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-414d6d98e350153a1f974d58de9712cf242a529cb3e9c4a5edc98d164194295d"
+        "fileHash": "sha256-21b78dbf0e83b0ace383ea0909100d6266a2779ab117a49863ee0cc5c4e52790"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
@@ -479,7 +479,7 @@
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48291,
+        "fileSize": 48289,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -488,7 +488,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-31cfe205573dcb1d52fc8795f50f55b35566342b14226895f0bfe7bf543b3409"
+        "fileHash": "sha256-304cf62a7212b844949a1c35b9c333f94f9574832e4b12c8dd4b4c73bac89952"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -755,6 +755,27 @@
         "fileHash": "sha256-1abc8454df94e8d2b1913d38eba5ab153cc4937069324f1ff65664a1333b3fe6"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/HDFilmDelisi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HDFilmDelisi",
+        "internalName": "HDFilmDelisi",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "HD Film Delisi - T\u00fcrk\u00e7e Filmler",
+        "fileSize": 58379,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-bbe02b2d9985cbdfd434deedc13e57500c4c44d617f63b41cbaa2d730577c5bc"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/InatBox.cs3",
         "status": 1,
         "version": 1,
@@ -786,7 +807,7 @@
             "Blockades"
         ],
         "description": "inatTV - Canl\u0131 ma\u00e7 yay\u0131nlar\u0131, 7/24 TV kanallar\u0131 ve spor kar\u015f\u0131la\u015fmalar\u0131n\u0131 Cloudstream \u00fczerinden izle.",
-        "fileSize": 26152,
+        "fileSize": 26148,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -795,7 +816,7 @@
         ],
         "iconUrl": "https://www.inattvizle494.top/lib/img/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-75b954b2f1575d8dd9c91a7ce224351aaa8720adde5562fc4f11a61eeb41078c"
+        "fileHash": "sha256-505b36eaab1ac5b893f3e7d8e866e3aaf7f1574f8f77f54ceacb7f5de48e1227"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/KanalD.cs3",
