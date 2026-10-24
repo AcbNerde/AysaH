@@ -368,14 +368,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziLife.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "DiziLife",
         "internalName": "DiziLife",
         "authors": [
             "Blockades"
         ],
         "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
-        "fileSize": 17043,
+        "fileSize": 17042,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -384,7 +384,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-b41042c9af5b336ccae29a5344dc99808e3b9cf83ec9df4c0a2e33c89027042c"
+        "fileHash": "sha256-2ff5d1f8687801327dff1a3d0b1fa27c3b271d82252fd790877a0736d8fa48b9"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Dizilla.cs3",
@@ -396,7 +396,7 @@
             "Blockades"
         ],
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 36531,
+        "fileSize": 45936,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -404,7 +404,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-4108de8721c1cc4258b724771aa8a49f079bd72e6775f9ec93ac77c27c731904"
+        "fileHash": "sha256-8d6e13111248dbf4ffcb6398246e7c0e20fe4b9d0a6f4f802bbfbf6bb7d34efa"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
@@ -446,19 +446,40 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9460e8fd0652d8a69fc0d32be6845f3dc194963c1ad16b03a9079a683301acdc"
+        "fileHash": "sha256-97419cefba9824057551abdebf3fd6368f9fb9c5dcd6723f891ebce92871d374"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal12.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DiziPal12",
+        "internalName": "DiziPal12",
+        "authors": [
+            "Blockades"
+        ],
+        "description": "DiziPal - G\u00fcncel domain (dizipal12.com.tr) - en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "fileSize": 23080,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://files.sikayetvar.com/lg/cmp/35/358737.png?1755090746",
+        "apiVersion": 1,
+        "fileHash": "sha256-404292fbc0b099ca52ee3a77d67cc5d0e00d52221c66090cbb61f6e65315cfac"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "DiziPal2",
         "internalName": "DiziPal2",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 27701,
+        "fileSize": 37973,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -467,7 +488,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-21b78dbf0e83b0ace383ea0909100d6266a2779ab117a49863ee0cc5c4e52790"
+        "fileHash": "sha256-9de8e6dde754dcc38eea9136a86afe2ce6f6c81ace6c2d162d83a6e17263e54f"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
@@ -479,7 +500,7 @@
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48289,
+        "fileSize": 48846,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -488,7 +509,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-304cf62a7212b844949a1c35b9c333f94f9574832e4b12c8dd4b4c73bac89952"
+        "fileHash": "sha256-d79caeae1a4091e1e93c9f2b09bbca108657483241eb74e6ecaa07cc7321be21"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -785,7 +806,7 @@
             "Blockades"
         ],
         "description": "\u0130natBox - Film, dizi ve canl\u0131 yay\u0131n kanallar\u0131",
-        "fileSize": 43058,
+        "fileSize": 61282,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -795,7 +816,7 @@
         ],
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
-        "fileHash": "sha256-227eb948027274b131500ca1356577c1bad36e2d5ad47017419cfaa6174b03b6"
+        "fileHash": "sha256-01f04e6c64e4c490c8adb95885fe7f21ee50dd698bfd2b3001b1d431025c75f9"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Inattv.cs3",
