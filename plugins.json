@@ -120,7 +120,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Anizm.cs3",
-        "status": 1,
+        "status": 0,
         "version": 1,
         "name": "Anizm",
         "internalName": "Anizm",
@@ -396,7 +396,7 @@
             "Blockades"
         ],
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 45936,
+        "fileSize": 33701,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -404,7 +404,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8d6e13111248dbf4ffcb6398246e7c0e20fe4b9d0a6f4f802bbfbf6bb7d34efa"
+        "fileHash": "sha256-073d7234ca9f041a499f6b6e2ec58053fc1a7816105c8ac7bc252da5301b94aa"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziMom.cs3",
@@ -1008,7 +1008,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Sinefy.cs3",
-        "status": 1,
+        "status": 0,
         "version": 14,
         "name": "Sinefy",
         "internalName": "Sinefy",
