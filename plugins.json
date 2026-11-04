@@ -2,21 +2,22 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AniArsiv.cs3",
         "status": 1,
-        "version": 6,
+        "version": 1,
         "name": "AniArsiv",
         "internalName": "AniArsiv",
         "authors": [
-            "ulgenzade"
+            "Blockades"
         ],
-        "description": "AniAr\u015fiv \u2014 T\u00fcrkiye'nin En B\u00fcy\u00fck Anime \u0130zleme Ar\u015fivi (6.000+ Anime, 70.000+ B\u00f6l\u00fcm, Ultra HD)",
+        "description": "AniAr\u015fiv \u2014 T\u00fcrkiye'nin En B\u00fcy\u00fck Anime \u0130zleme Ar\u015fivi (6.000+ Anime, 70.000+ B\u00f6l\u00fcm, Ultra HD...",
         "fileSize": 22171,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
             "Anime"
         ],
+        "iconUrl": "https://aniarsiv.com/images/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-22e7d36726011c092a1c521b20ae91c03f4d5d6d492c9fe4e6f767eea0096986"
+        "fileHash": "sha256-d18990d13213c41a825946d2e52771270c41c16dab9ff60fb12f655bbd25e36f"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/AnimeAV.cs3",
@@ -189,7 +190,7 @@
             "Blockades"
         ],
         "description": "ATV'nin sevilen dizileri (A\u015fk ve Taht, Alt\u0131 \u00dcst\u00fc \u0130stanbul) ve programlar\u0131 (M\u00fcge Anl\u0131, Esra Erol) izleyin.",
-        "fileSize": 45096,
+        "fileSize": 45064,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -197,7 +198,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8550dc3f30d2c089e252640207a6944b48cee57ff9471c7ce25e8338323a57b0"
+        "fileHash": "sha256-b67bcb64220caf0dd1bdad9441234f6098d8415dc8717167e667d0b506e4ba70"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/BelgeselX.cs3",
@@ -430,14 +431,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 28494,
+        "fileSize": 28496,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -446,7 +447,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-97419cefba9824057551abdebf3fd6368f9fb9c5dcd6723f891ebce92871d374"
+        "fileHash": "sha256-d3dc91fff5c83dbfe68c0f2167849c5cd6f8e1a4d62311b15dcbbd932891a007"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal12.cs3",
@@ -472,14 +473,14 @@
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPal2.cs3",
         "status": 1,
-        "version": 4,
+        "version": 6,
         "name": "DiziPal2",
         "internalName": "DiziPal2",
         "authors": [
             "Blockades"
         ],
         "description": "DiziPal2  en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 37973,
+        "fileSize": 37986,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -488,7 +489,7 @@
         ],
         "iconUrl": "https://img.sur.ly/favicons/d/dizipal1.com.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9de8e6dde754dcc38eea9136a86afe2ce6f6c81ace6c2d162d83a6e17263e54f"
+        "fileHash": "sha256-021cf70eb2001348a42e0997cc36218d5741060439f4f043053ac7cbde3dddce"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPalOrijinal.cs3",
@@ -500,7 +501,7 @@
             "Blockades"
         ],
         "description": "DiziPal Orijinal.",
-        "fileSize": 48846,
+        "fileSize": 63809,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -509,7 +510,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1582.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-d79caeae1a4091e1e93c9f2b09bbca108657483241eb74e6ecaa07cc7321be21"
+        "fileHash": "sha256-fa068f8d8267dceeaa6009ccaedf2e62977b4ed751c26f60c2ef13be8bcac863"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/DiziPod.cs3",
@@ -849,7 +850,7 @@
             "Blockades"
         ],
         "description": "Kanal D icin haz\u0131rlanan eklentide diziler programlar ve Mazi Diziler mevcut",
-        "fileSize": 19580,
+        "fileSize": 19526,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -858,7 +859,7 @@
         ],
         "iconUrl": "https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5fa65c84153fa9e9a0669b527f0de652f1eac8f4308dcb5a60c89bb58fc947c0"
+        "fileHash": "sha256-2c1126a1c0c362eb7e510f3baf2cec8abeaa8308d596b7d7e8cd36ee8b032c27"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/KultFilmler.cs3",
@@ -922,6 +923,28 @@
         "fileHash": "sha256-15f19f466111023e8db16f522ae11d5a39dd47fb4a854c3d55688fca1497a4d9"
     },
     {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/RecTV.cs3",
+        "status": 1,
+        "version": 16,
+        "name": "RecTV",
+        "internalName": "RecTV",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
+        "fileSize": 33011,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-abd08d858b10f3096ffecab72f5dd691d485062e011378626148c5fbf7726bbe"
+    },
+    {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/RetroD.cs3",
         "status": 1,
         "version": 1,
@@ -931,7 +954,7 @@
             "Blockades"
         ],
         "description": "Kanal D icin haz\u0131rlanan eklentide diziler programlar ve Mazi Diziler mevcut",
-        "fileSize": 18857,
+        "fileSize": 18822,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
@@ -940,7 +963,7 @@
         ],
         "iconUrl": "https://i1.sndcdn.com/avatars-000662168717-4uz14u-t1080x1080.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-5abbd8fbd8276555d172758fe3bef576db4da7aded891f0f36605c6b314c7b91"
+        "fileHash": "sha256-309b37328fe6d2b2585b43289efa14f1d7ab4d93297cb71e5d65354d24d382fe"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SelcukFlix.cs3",
@@ -995,16 +1018,15 @@
             "Blockades"
         ],
         "description": "Show TV canl\u0131 yay\u0131n\u0131, dizileri, e\u011flence programlar\u0131, oyuncular ve daha fazlas\u0131 sayfalar\u0131m\u0131zda. Hayat T\u00fcrkiye'nin kanal\u0131 Show'la g\u00fczel! \u015eimdi Show TV canl\u0131 yay\u0131n izle.",
-        "fileSize": 27791,
+        "fileSize": 27761,
         "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
         "language": "tr",
         "tvTypes": [
-            "TvSeries",
-            "Live"
+            "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-72fde4fcf5513139b113d0d5c40b48b9133414f6a4e03c1211bb7971f97c5bd0"
+        "fileHash": "sha256-295d2cfff0ba470760e5c0a879f73848db9f72a256637814614add2f4c06b0a8"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/Sinefy.cs3",
@@ -1129,6 +1151,26 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
         "apiVersion": 1,
         "fileHash": "sha256-a7d82f03e05e8081ef1a2fa9ade23863a2c45a8a8abaea2ef31655de74829b3c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/SuperFilmGeldi.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "SuperFilmGeldi",
+        "internalName": "SuperFilmGeldi",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "description": "Hd film izliyerek arkada\u015flar\u0131n\u0131zla ve sevdiklerinizle iyi bir vakit ge\u00e7irmek istiyorsan\u0131z a\u00e7\u0131n bir film e\u011flenmeye bak\u0131n. Bilim kurgu filmleri, a\u015fk drama vah\u015fet a\u015fk romantik s\u0131rad\u0131\u015f\u0131 korku filmlerini izle.",
+        "fileSize": 29973,
+        "repositoryUrl": "https://github.com/mak-ss/Cs-Inat",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-51bf8bfa3ff890ba37a22542f157ce72bd15d0fa6d7ec86b5fea6a5528175287"
     },
     {
         "url": "https://raw.githubusercontent.com/mak-ss/Cs-Inat/builds/TrGoals.cs3",
