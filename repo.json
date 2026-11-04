@@ -4,6 +4,6 @@
     "description": "Türkçe Cloudstream eklentileri",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/AcbNerde/AysaH/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/mak-ss/Cs-Inat/refs/heads/builds/plugins.json"
     ]
 }
